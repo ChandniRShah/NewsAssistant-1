@@ -4,3 +4,6 @@ Conversational chat based web application to assist users with News alerts, noti
 
 Look at the Wiki for more info:
 https://github.com/paceuniversityCS691TeamB/NewsAssistant/wiki
+
+Project Tasks Status:
+https://github.com/paceuniversityCS691TeamB/NewsAssistant/projects/1

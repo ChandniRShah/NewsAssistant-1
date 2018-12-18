@@ -27,35 +27,4 @@
             })
         </script>
     </div>
-
-    <div>
-        <script>
-            //            if (window.WebSocket === undefined) {
-            //                state.innerHTML = "sockets not supported";
-            //                state.className = "fail";
-            //            }else {
-            //                if (typeof String.prototype.startsWith != "function") {
-            //                    String.prototype.startsWith = function (str) {
-            //                        return this.indexOf(str) == 0;
-            //                    };
-            //                }
-            //
-            //                window.addEventListener("load", onLoad, false);
-            //            }
-            //
-            //            function onLoad() {
-            //                var wsUri = "http://localhost:5002/";
-            //                websocket = new WebSocket(wsUri);
-            //
-            //            }
-            var socket = new WebSocket('http://localhost:5002/');
-
-            socket.onopen = function(event) {
-                console.log("Connection established");
-            }
-
-
-
-        </script>
-    </div>
 @endsection

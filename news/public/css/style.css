@@ -73,7 +73,10 @@ header h1 a {
 }
 
 nav {
-    position: absolute;
+    /*position: absolute;*/
+    margin-right: 150px;
+    float: right;
+    padding: 15px;
     top: 32.8%;
     left: 12.5%;
 }

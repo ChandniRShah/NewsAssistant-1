@@ -1,0 +1,1496 @@
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Server initialized for gevent.
+Rasa Core server is up and running on http://localhost:5002
+9f7d5cd008cb4d258b1862e44266dab3: Sending packet OPEN data {'sid': '9f7d5cd008cb4d258b1862e44266dab3', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+9f7d5cd008cb4d258b1862e44266dab3: Sending packet MESSAGE data 0
+9f7d5cd008cb4d258b1862e44266dab3: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from 9f7d5cd008cb4d258b1862e44266dab3 [/]
+emitting event "bot_uttered" to 9f7d5cd008cb4d258b1862e44266dab3 [/]
+9f7d5cd008cb4d258b1862e44266dab3: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+9f7d5cd008cb4d258b1862e44266dab3: Received packet MESSAGE data 2["user_uttered",{"message":"hi"}]
+received event "user_uttered" from 9f7d5cd008cb4d258b1862e44266dab3 [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 9f7d5cd008cb4d258b1862e44266dab3 [/]
+9f7d5cd008cb4d258b1862e44266dab3: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+9f7d5cd008cb4d258b1862e44266dab3: Received packet MESSAGE data 2["user_uttered",{"message":"pradeep","customData":{}}]
+received event "user_uttered" from 9f7d5cd008cb4d258b1862e44266dab3 [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 9f7d5cd008cb4d258b1862e44266dab3 [/]
+9f7d5cd008cb4d258b1862e44266dab3: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+9f7d5cd008cb4d258b1862e44266dab3: Received packet MESSAGE data 2["user_uttered",{"message":"pradeep","customData":{}}]
+received event "user_uttered" from 9f7d5cd008cb4d258b1862e44266dab3 [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 9f7d5cd008cb4d258b1862e44266dab3 [/]
+9f7d5cd008cb4d258b1862e44266dab3: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+9f7d5cd008cb4d258b1862e44266dab3: Received packet MESSAGE data 2["user_uttered",{"message":"how are you","customData":{}}]
+received event "user_uttered" from 9f7d5cd008cb4d258b1862e44266dab3 [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 9f7d5cd008cb4d258b1862e44266dab3 [/]
+9f7d5cd008cb4d258b1862e44266dab3: Sending packet MESSAGE data 2["bot_uttered",{"text":"My pleasure."}]
+9f7d5cd008cb4d258b1862e44266dab3: Received packet MESSAGE data 2["user_uttered",{"message":"bye","customData":{}}]
+received event "user_uttered" from 9f7d5cd008cb4d258b1862e44266dab3 [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 9f7d5cd008cb4d258b1862e44266dab3 [/]
+9f7d5cd008cb4d258b1862e44266dab3: Sending packet MESSAGE data 2["bot_uttered",{"text":"Talk to you later!"}]
+9f7d5cd008cb4d258b1862e44266dab3: Received packet PING data None
+9f7d5cd008cb4d258b1862e44266dab3: Sending packet PONG data None
+9f7d5cd008cb4d258b1862e44266dab3: Received packet PING data None
+9f7d5cd008cb4d258b1862e44266dab3: Sending packet PONG data None
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Server initialized for gevent.
+Rasa Core server is up and running on http://localhost:5002
+cd06a3d9ac07471ba425c3230d690b9b: Sending packet OPEN data {'sid': 'cd06a3d9ac07471ba425c3230d690b9b', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+cd06a3d9ac07471ba425c3230d690b9b: Sending packet MESSAGE data 0
+cd06a3d9ac07471ba425c3230d690b9b: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from cd06a3d9ac07471ba425c3230d690b9b [/]
+emitting event "bot_uttered" to cd06a3d9ac07471ba425c3230d690b9b [/]
+cd06a3d9ac07471ba425c3230d690b9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+cd06a3d9ac07471ba425c3230d690b9b: Received packet MESSAGE data 2["user_uttered",{"message":"hi","customData":{}}]
+received event "user_uttered" from cd06a3d9ac07471ba425c3230d690b9b [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to cd06a3d9ac07471ba425c3230d690b9b [/]
+cd06a3d9ac07471ba425c3230d690b9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+cd06a3d9ac07471ba425c3230d690b9b: Received packet MESSAGE data 2["user_uttered",{"message":"pradeep","customData":{}}]
+received event "user_uttered" from cd06a3d9ac07471ba425c3230d690b9b [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to cd06a3d9ac07471ba425c3230d690b9b [/]
+cd06a3d9ac07471ba425c3230d690b9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+cd06a3d9ac07471ba425c3230d690b9b: Received packet MESSAGE data 2["user_uttered",{"message":"how are you","customData":{}}]
+received event "user_uttered" from cd06a3d9ac07471ba425c3230d690b9b [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to cd06a3d9ac07471ba425c3230d690b9b [/]
+cd06a3d9ac07471ba425c3230d690b9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"My pleasure."}]
+cd06a3d9ac07471ba425c3230d690b9b: Received packet PING data None
+cd06a3d9ac07471ba425c3230d690b9b: Sending packet PONG data None
+cd06a3d9ac07471ba425c3230d690b9b: Received packet PING data None
+cd06a3d9ac07471ba425c3230d690b9b: Sending packet PONG data None
+cd06a3d9ac07471ba425c3230d690b9b: Received packet PING data None
+cd06a3d9ac07471ba425c3230d690b9b: Sending packet PONG data None
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Server initialized for gevent.
+Rasa Core server is up and running on http://localhost:5002
+dc243eb42a6249eb8922121eb0461beb: Sending packet OPEN data {'sid': 'dc243eb42a6249eb8922121eb0461beb', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+dc243eb42a6249eb8922121eb0461beb: Sending packet MESSAGE data 0
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+dc243eb42a6249eb8922121eb0461beb: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from dc243eb42a6249eb8922121eb0461beb [/]
+emitting event "bot_uttered" to dc243eb42a6249eb8922121eb0461beb [/]
+dc243eb42a6249eb8922121eb0461beb: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+dc243eb42a6249eb8922121eb0461beb: Received packet MESSAGE data 2["user_uttered",{"message":"my name is pradeep","customData":{}}]
+received event "user_uttered" from dc243eb42a6249eb8922121eb0461beb [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to dc243eb42a6249eb8922121eb0461beb [/]
+dc243eb42a6249eb8922121eb0461beb: Sending packet MESSAGE data 2["bot_uttered",{"text":"Nice to you meet you pradeep. How can I help?"}]
+dc243eb42a6249eb8922121eb0461beb: Received packet MESSAGE data 2["user_uttered",{"message":"how are you","customData":{}}]
+received event "user_uttered" from dc243eb42a6249eb8922121eb0461beb [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to dc243eb42a6249eb8922121eb0461beb [/]
+dc243eb42a6249eb8922121eb0461beb: Sending packet MESSAGE data 2["bot_uttered",{"text":"My pleasure."}]
+dc243eb42a6249eb8922121eb0461beb: Received packet MESSAGE data 2["user_uttered",{"message":"what can you do","customData":{}}]
+received event "user_uttered" from dc243eb42a6249eb8922121eb0461beb [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+Encountered an exception while running action 'action_joke'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+dc243eb42a6249eb8922121eb0461beb: Received packet MESSAGE data 2["user_uttered",{"message":"tell me a joke","customData":{}}]
+received event "user_uttered" from dc243eb42a6249eb8922121eb0461beb [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+Encountered an exception while running action 'action_joke'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+dc243eb42a6249eb8922121eb0461beb: Received packet MESSAGE data 2["user_uttered",{"message":"bye","customData":{}}]
+received event "user_uttered" from dc243eb42a6249eb8922121eb0461beb [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to dc243eb42a6249eb8922121eb0461beb [/]
+dc243eb42a6249eb8922121eb0461beb: Sending packet MESSAGE data 2["bot_uttered",{"text":"Talk to you later!"}]
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+dc243eb42a6249eb8922121eb0461beb: Received packet PING data None
+dc243eb42a6249eb8922121eb0461beb: Sending packet PONG data None
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Server initialized for gevent.
+Rasa Core server is up and running on http://localhost:5002
+591575d89de94f0c8289aef694765ab6: Sending packet OPEN data {'sid': '591575d89de94f0c8289aef694765ab6', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+591575d89de94f0c8289aef694765ab6: Sending packet MESSAGE data 0
+591575d89de94f0c8289aef694765ab6: Received packet PING data None
+591575d89de94f0c8289aef694765ab6: Sending packet PONG data None
+a22c20cc86324c55aeddf70b3608106b: Sending packet OPEN data {'sid': 'a22c20cc86324c55aeddf70b3608106b', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+a22c20cc86324c55aeddf70b3608106b: Sending packet MESSAGE data 0
+a22c20cc86324c55aeddf70b3608106b: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from a22c20cc86324c55aeddf70b3608106b [/]
+emitting event "bot_uttered" to a22c20cc86324c55aeddf70b3608106b [/]
+a22c20cc86324c55aeddf70b3608106b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+a22c20cc86324c55aeddf70b3608106b: Received packet MESSAGE data 2["user_uttered",{"message":"my name is pradeep","customData":{}}]
+received event "user_uttered" from a22c20cc86324c55aeddf70b3608106b [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to a22c20cc86324c55aeddf70b3608106b [/]
+a22c20cc86324c55aeddf70b3608106b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Nice to you meet you pradeep. How can I help?"}]
+a22c20cc86324c55aeddf70b3608106b: Received packet MESSAGE data 2["user_uttered",{"message":"tell me a joke","customData":{}}]
+received event "user_uttered" from a22c20cc86324c55aeddf70b3608106b [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+Encountered an exception while running action 'action_joke'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+a22c20cc86324c55aeddf70b3608106b: Received packet PING data None
+a22c20cc86324c55aeddf70b3608106b: Sending packet PONG data None
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Server initialized for gevent.
+Rasa Core server is up and running on http://localhost:5002
+cc6c7cce35d0495f82a6f2cfa63b61d7: Sending packet OPEN data {'sid': 'cc6c7cce35d0495f82a6f2cfa63b61d7', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+cc6c7cce35d0495f82a6f2cfa63b61d7: Sending packet MESSAGE data 0
+b76b9f2b67ef4e918f4fa19082438263: Sending packet OPEN data {'sid': 'b76b9f2b67ef4e918f4fa19082438263', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+b76b9f2b67ef4e918f4fa19082438263: Sending packet MESSAGE data 0
+b76b9f2b67ef4e918f4fa19082438263: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from b76b9f2b67ef4e918f4fa19082438263 [/]
+emitting event "bot_uttered" to b76b9f2b67ef4e918f4fa19082438263 [/]
+b76b9f2b67ef4e918f4fa19082438263: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+b76b9f2b67ef4e918f4fa19082438263: Received packet MESSAGE data 2["user_uttered",{"message":"my name is kinnari","customData":{}}]
+received event "user_uttered" from b76b9f2b67ef4e918f4fa19082438263 [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to b76b9f2b67ef4e918f4fa19082438263 [/]
+b76b9f2b67ef4e918f4fa19082438263: Sending packet MESSAGE data 2["bot_uttered",{"text":"Nice to you meet you kinnari. How can I help?"}]
+b76b9f2b67ef4e918f4fa19082438263: Received packet MESSAGE data 2["user_uttered",{"message":"tell me a joke","customData":{}}]
+received event "user_uttered" from b76b9f2b67ef4e918f4fa19082438263 [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+Encountered an exception while running action 'action_joke'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+b76b9f2b67ef4e918f4fa19082438263: Received packet PING data None
+b76b9f2b67ef4e918f4fa19082438263: Sending packet PONG data None
+b76b9f2b67ef4e918f4fa19082438263: Received packet MESSAGE data 2["user_uttered",{"message":"how are you","customData":{}}]
+received event "user_uttered" from b76b9f2b67ef4e918f4fa19082438263 [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to b76b9f2b67ef4e918f4fa19082438263 [/]
+b76b9f2b67ef4e918f4fa19082438263: Sending packet MESSAGE data 2["bot_uttered",{"text":"My pleasure."}]
+b76b9f2b67ef4e918f4fa19082438263: Received packet MESSAGE data 2["user_uttered",{"message":"who are you","customData":{}}]
+received event "user_uttered" from b76b9f2b67ef4e918f4fa19082438263 [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to b76b9f2b67ef4e918f4fa19082438263 [/]
+b76b9f2b67ef4e918f4fa19082438263: Sending packet MESSAGE data 2["bot_uttered",{"text":"My pleasure."}]
+b76b9f2b67ef4e918f4fa19082438263: Received packet MESSAGE data 2["user_uttered",{"message":"what time is it","customData":{}}]
+received event "user_uttered" from b76b9f2b67ef4e918f4fa19082438263 [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to b76b9f2b67ef4e918f4fa19082438263 [/]
+b76b9f2b67ef4e918f4fa19082438263: Sending packet MESSAGE data 2["bot_uttered",{"text":"Nice to you meet you it. How can I help?"}]
+cc6c7cce35d0495f82a6f2cfa63b61d7: Client is gone, closing socket
+cc6c7cce35d0495f82a6f2cfa63b61d7: Client is gone, closing socket
+b76b9f2b67ef4e918f4fa19082438263: Received packet MESSAGE data 2["user_uttered",{"message":"bye","customData":{}}]
+received event "user_uttered" from b76b9f2b67ef4e918f4fa19082438263 [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to b76b9f2b67ef4e918f4fa19082438263 [/]
+b76b9f2b67ef4e918f4fa19082438263: Sending packet MESSAGE data 2["bot_uttered",{"text":"Talk to you later!"}]
+b76b9f2b67ef4e918f4fa19082438263: Received packet PING data None
+b76b9f2b67ef4e918f4fa19082438263: Sending packet PONG data None
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Server initialized for gevent.
+Rasa Core server is up and running on http://localhost:5002
+3b829adcac7441c3b2b51450c5b5c24a: Sending packet OPEN data {'sid': '3b829adcac7441c3b2b51450c5b5c24a', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+3b829adcac7441c3b2b51450c5b5c24a: Sending packet MESSAGE data 0
+3b829adcac7441c3b2b51450c5b5c24a: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from 3b829adcac7441c3b2b51450c5b5c24a [/]
+emitting event "bot_uttered" to 3b829adcac7441c3b2b51450c5b5c24a [/]
+3b829adcac7441c3b2b51450c5b5c24a: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+3b829adcac7441c3b2b51450c5b5c24a: Received packet MESSAGE data 2["user_uttered",{"message":"my name is pradeep","customData":{}}]
+received event "user_uttered" from 3b829adcac7441c3b2b51450c5b5c24a [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 3b829adcac7441c3b2b51450c5b5c24a [/]
+3b829adcac7441c3b2b51450c5b5c24a: Sending packet MESSAGE data 2["bot_uttered",{"text":"Nice to you meet you pradeep. How can I help?"}]
+3b829adcac7441c3b2b51450c5b5c24a: Received packet MESSAGE data 2["user_uttered",{"message":"hello","customData":{}}]
+received event "user_uttered" from 3b829adcac7441c3b2b51450c5b5c24a [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 3b829adcac7441c3b2b51450c5b5c24a [/]
+3b829adcac7441c3b2b51450c5b5c24a: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+3b829adcac7441c3b2b51450c5b5c24a: Received packet MESSAGE data 2["user_uttered",{"message":"tell me a joke","customData":{}}]
+received event "user_uttered" from 3b829adcac7441c3b2b51450c5b5c24a [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+Encountered an exception while running action 'action_joke'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+3b829adcac7441c3b2b51450c5b5c24a: Received packet PING data None
+3b829adcac7441c3b2b51450c5b5c24a: Sending packet PONG data None
+3b829adcac7441c3b2b51450c5b5c24a: Received packet PING data None
+3b829adcac7441c3b2b51450c5b5c24a: Sending packet PONG data None
+3b829adcac7441c3b2b51450c5b5c24a: Received packet PING data None
+3b829adcac7441c3b2b51450c5b5c24a: Sending packet PONG data None
+3b829adcac7441c3b2b51450c5b5c24a: Received packet PING data None
+3b829adcac7441c3b2b51450c5b5c24a: Sending packet PONG data None
+3b829adcac7441c3b2b51450c5b5c24a: Received packet PING data None
+3b829adcac7441c3b2b51450c5b5c24a: Sending packet PONG data None
+3b829adcac7441c3b2b51450c5b5c24a: Received packet MESSAGE data 2["user_uttered",{"message":"bye","customData":{}}]
+received event "user_uttered" from 3b829adcac7441c3b2b51450c5b5c24a [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 3b829adcac7441c3b2b51450c5b5c24a [/]
+3b829adcac7441c3b2b51450c5b5c24a: Sending packet MESSAGE data 2["bot_uttered",{"text":"Talk to you later!"}]
+3b829adcac7441c3b2b51450c5b5c24a: Received packet PING data None
+3b829adcac7441c3b2b51450c5b5c24a: Sending packet PONG data None
+3b829adcac7441c3b2b51450c5b5c24a: Received packet PING data None
+3b829adcac7441c3b2b51450c5b5c24a: Sending packet PONG data None
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Server initialized for gevent.
+Rasa Core server is up and running on http://localhost:5002
+556d5e0558e0405b8df1d7847cebc63b: Sending packet OPEN data {'sid': '556d5e0558e0405b8df1d7847cebc63b', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+556d5e0558e0405b8df1d7847cebc63b: Sending packet MESSAGE data 0
+556d5e0558e0405b8df1d7847cebc63b: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from 556d5e0558e0405b8df1d7847cebc63b [/]
+emitting event "bot_uttered" to 556d5e0558e0405b8df1d7847cebc63b [/]
+556d5e0558e0405b8df1d7847cebc63b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+556d5e0558e0405b8df1d7847cebc63b: Received packet MESSAGE data 2["user_uttered",{"message":"my name is pradeep","customData":{}}]
+received event "user_uttered" from 556d5e0558e0405b8df1d7847cebc63b [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 556d5e0558e0405b8df1d7847cebc63b [/]
+556d5e0558e0405b8df1d7847cebc63b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Nice to you meet you pradeep. How can I help?"}]
+556d5e0558e0405b8df1d7847cebc63b: Received packet MESSAGE data 2["user_uttered",{"message":"tell me a joke","customData":{}}]
+received event "user_uttered" from 556d5e0558e0405b8df1d7847cebc63b [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+Encountered an exception while running action 'action_joke'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+556d5e0558e0405b8df1d7847cebc63b: Received packet PING data None
+556d5e0558e0405b8df1d7847cebc63b: Sending packet PONG data None
+556d5e0558e0405b8df1d7847cebc63b: Received packet PING data None
+556d5e0558e0405b8df1d7847cebc63b: Sending packet PONG data None
+556d5e0558e0405b8df1d7847cebc63b: Received packet MESSAGE data 2["user_uttered",{"message":"i want a joke","customData":{}}]
+received event "user_uttered" from 556d5e0558e0405b8df1d7847cebc63b [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+Encountered an exception while running action 'action_joke'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+556d5e0558e0405b8df1d7847cebc63b: Received packet MESSAGE data 2["user_uttered",{"message":"tell me something funny","customData":{}}]
+received event "user_uttered" from 556d5e0558e0405b8df1d7847cebc63b [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 556d5e0558e0405b8df1d7847cebc63b [/]
+556d5e0558e0405b8df1d7847cebc63b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Nice to you meet you pradeep. How can I help?"}]
+556d5e0558e0405b8df1d7847cebc63b: Received packet MESSAGE data 2["user_uttered",{"message":"bye","customData":{}}]
+received event "user_uttered" from 556d5e0558e0405b8df1d7847cebc63b [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 556d5e0558e0405b8df1d7847cebc63b [/]
+556d5e0558e0405b8df1d7847cebc63b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Talk to you later!"}]
+556d5e0558e0405b8df1d7847cebc63b: Received packet PING data None
+556d5e0558e0405b8df1d7847cebc63b: Sending packet PONG data None
+556d5e0558e0405b8df1d7847cebc63b: Received packet PING data None
+556d5e0558e0405b8df1d7847cebc63b: Sending packet PONG data None
+556d5e0558e0405b8df1d7847cebc63b: Received packet PING data None
+556d5e0558e0405b8df1d7847cebc63b: Sending packet PONG data None
+556d5e0558e0405b8df1d7847cebc63b: Received packet PING data None
+556d5e0558e0405b8df1d7847cebc63b: Sending packet PONG data None
+556d5e0558e0405b8df1d7847cebc63b: Received packet PING data None
+556d5e0558e0405b8df1d7847cebc63b: Sending packet PONG data None
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Server initialized for gevent.
+Rasa Core server is up and running on http://localhost:5002
+cf65b737163a41ffb051c059e7917258: Sending packet OPEN data {'sid': 'cf65b737163a41ffb051c059e7917258', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+cf65b737163a41ffb051c059e7917258: Sending packet MESSAGE data 0
+cf65b737163a41ffb051c059e7917258: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from cf65b737163a41ffb051c059e7917258 [/]
+emitting event "bot_uttered" to cf65b737163a41ffb051c059e7917258 [/]
+cf65b737163a41ffb051c059e7917258: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+cf65b737163a41ffb051c059e7917258: Received packet MESSAGE data 2["user_uttered",{"message":"hello"}]
+received event "user_uttered" from cf65b737163a41ffb051c059e7917258 [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to cf65b737163a41ffb051c059e7917258 [/]
+cf65b737163a41ffb051c059e7917258: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+4862b946371b4628aa2df065e72c2612: Sending packet OPEN data {'sid': '4862b946371b4628aa2df065e72c2612', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+4862b946371b4628aa2df065e72c2612: Sending packet MESSAGE data 0
+4862b946371b4628aa2df065e72c2612: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from 4862b946371b4628aa2df065e72c2612 [/]
+emitting event "bot_uttered" to 4862b946371b4628aa2df065e72c2612 [/]
+4862b946371b4628aa2df065e72c2612: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+4862b946371b4628aa2df065e72c2612: Received packet PING data None
+4862b946371b4628aa2df065e72c2612: Sending packet PONG data None
+4862b946371b4628aa2df065e72c2612: Received packet PING data None
+4862b946371b4628aa2df065e72c2612: Sending packet PONG data None
+cf65b737163a41ffb051c059e7917258: Client is gone, closing socket
+cf65b737163a41ffb051c059e7917258: Client is gone, closing socket
+4862b946371b4628aa2df065e72c2612: Received packet PING data None
+4862b946371b4628aa2df065e72c2612: Sending packet PONG data None
+4862b946371b4628aa2df065e72c2612: Received packet MESSAGE data 2["user_uttered",{"message":"my name is pradeep","customData":{}}]
+received event "user_uttered" from 4862b946371b4628aa2df065e72c2612 [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 4862b946371b4628aa2df065e72c2612 [/]
+4862b946371b4628aa2df065e72c2612: Sending packet MESSAGE data 2["bot_uttered",{"text":"Nice to you meet you pradeep. How can I help?"}]
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet OPEN data {'sid': 'ceaf5fb20f874e89a52a6caecc95093e', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet MESSAGE data 0
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+4862b946371b4628aa2df065e72c2612: Client is gone, closing socket
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+ceaf5fb20f874e89a52a6caecc95093e: Received packet PING data None
+ceaf5fb20f874e89a52a6caecc95093e: Sending packet PONG data None
+7761f92f16dd4e10a323f559adba98c7: Sending packet OPEN data {'sid': '7761f92f16dd4e10a323f559adba98c7', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+7761f92f16dd4e10a323f559adba98c7: Sending packet MESSAGE data 0
+7761f92f16dd4e10a323f559adba98c7: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from 7761f92f16dd4e10a323f559adba98c7 [/]
+emitting event "bot_uttered" to 7761f92f16dd4e10a323f559adba98c7 [/]
+7761f92f16dd4e10a323f559adba98c7: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+7761f92f16dd4e10a323f559adba98c7: Received packet MESSAGE data 2["user_uttered",{"message":"my name is pradeep","customData":{}}]
+received event "user_uttered" from 7761f92f16dd4e10a323f559adba98c7 [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 7761f92f16dd4e10a323f559adba98c7 [/]
+7761f92f16dd4e10a323f559adba98c7: Sending packet MESSAGE data 2["bot_uttered",{"text":"Nice to you meet you pradeep. How can I help?"}]
+7761f92f16dd4e10a323f559adba98c7: Received packet MESSAGE data 2["user_uttered",{"message":"i want an A","customData":{}}]
+received event "user_uttered" from 7761f92f16dd4e10a323f559adba98c7 [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 7761f92f16dd4e10a323f559adba98c7 [/]
+7761f92f16dd4e10a323f559adba98c7: Sending packet MESSAGE data 2["bot_uttered",{"text":"Talk to you later!"}]
+7761f92f16dd4e10a323f559adba98c7: Received packet MESSAGE data 2["user_uttered",{"message":"thats bad","customData":{}}]
+received event "user_uttered" from 7761f92f16dd4e10a323f559adba98c7 [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 7761f92f16dd4e10a323f559adba98c7 [/]
+7761f92f16dd4e10a323f559adba98c7: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+7761f92f16dd4e10a323f559adba98c7: Received packet PING data None
+7761f92f16dd4e10a323f559adba98c7: Sending packet PONG data None
+7761f92f16dd4e10a323f559adba98c7: Received packet MESSAGE data 2["user_uttered",{"message":"hello","customData":{}}]
+received event "user_uttered" from 7761f92f16dd4e10a323f559adba98c7 [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 7761f92f16dd4e10a323f559adba98c7 [/]
+7761f92f16dd4e10a323f559adba98c7: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+ceaf5fb20f874e89a52a6caecc95093e: Client is gone, closing socket
+7761f92f16dd4e10a323f559adba98c7: Received packet MESSAGE data 2["user_uttered",{"message":"bye","customData":{}}]
+received event "user_uttered" from 7761f92f16dd4e10a323f559adba98c7 [/]
+C:\Users\pradeep\Desktop\project\project\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 7761f92f16dd4e10a323f559adba98c7 [/]
+7761f92f16dd4e10a323f559adba98c7: Sending packet MESSAGE data 2["bot_uttered",{"text":"Talk to you later!"}]
+7761f92f16dd4e10a323f559adba98c7: Received packet PING data None
+7761f92f16dd4e10a323f559adba98c7: Sending packet PONG data None
+7761f92f16dd4e10a323f559adba98c7: Received packet PING data None
+7761f92f16dd4e10a323f559adba98c7: Sending packet PONG data None
+7761f92f16dd4e10a323f559adba98c7: Received packet PING data None
+7761f92f16dd4e10a323f559adba98c7: Sending packet PONG data None
+7761f92f16dd4e10a323f559adba98c7: Received packet PING data None
+7761f92f16dd4e10a323f559adba98c7: Sending packet PONG data None
+7761f92f16dd4e10a323f559adba98c7: Received packet PING data None
+7761f92f16dd4e10a323f559adba98c7: Sending packet PONG data None
+7761f92f16dd4e10a323f559adba98c7: Received packet PING data None
+7761f92f16dd4e10a323f559adba98c7: Sending packet PONG data None
+7761f92f16dd4e10a323f559adba98c7: Received packet PING data None
+7761f92f16dd4e10a323f559adba98c7: Sending packet PONG data None
+7761f92f16dd4e10a323f559adba98c7: Received packet PING data None
+7761f92f16dd4e10a323f559adba98c7: Sending packet PONG data None
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+/Users/kinnari/Project2/news/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+/Users/kinnari/Project2/news/newsChatbot/env/lib/python2.7/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Server initialized for gevent.
+Rasa Core server is up and running on http://localhost:5002
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+/Users/kinnari/Project2/news/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+/Users/kinnari/Project2/news/newsChatbot/env/lib/python2.7/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Server initialized for gevent.
+Rasa Core server is up and running on http://localhost:8000
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+/Users/kinnari/Project2/news/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+/Users/kinnari/Project2/news/newsChatbot/env/lib/python2.7/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Server initialized for gevent.
+Rasa Core server is up and running on http://localhost:5002
+45f2530332004e59a0f0ee7e7f9dd06a: Sending packet OPEN data {'pingInterval': 25000, 'pingTimeout': 60000, 'upgrades': [], 'sid': '45f2530332004e59a0f0ee7e7f9dd06a'}
+45f2530332004e59a0f0ee7e7f9dd06a: Sending packet MESSAGE data 0
+45f2530332004e59a0f0ee7e7f9dd06a: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from 45f2530332004e59a0f0ee7e7f9dd06a [/]
+emitting event "bot_uttered" to 45f2530332004e59a0f0ee7e7f9dd06a [/]
+45f2530332004e59a0f0ee7e7f9dd06a: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+45f2530332004e59a0f0ee7e7f9dd06a: Received packet PING data None
+45f2530332004e59a0f0ee7e7f9dd06a: Sending packet PONG data None
+45f2530332004e59a0f0ee7e7f9dd06a: Received packet MESSAGE data 2["user_uttered",{"message":"My name is Kinnari","customData":{}}]
+received event "user_uttered" from 45f2530332004e59a0f0ee7e7f9dd06a [/]
+/Users/kinnari/Project2/news/newsChatbot/env/lib/python2.7/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 45f2530332004e59a0f0ee7e7f9dd06a [/]
+45f2530332004e59a0f0ee7e7f9dd06a: Sending packet MESSAGE data 2["bot_uttered",{"text":"Nice to you meet you kinnari. How can I help?"}]
+45f2530332004e59a0f0ee7e7f9dd06a: Received packet PING data None
+45f2530332004e59a0f0ee7e7f9dd06a: Sending packet PONG data None
+45f2530332004e59a0f0ee7e7f9dd06a: Received packet PING data None
+45f2530332004e59a0f0ee7e7f9dd06a: Sending packet PONG data None
+45f2530332004e59a0f0ee7e7f9dd06a: Received packet PING data None
+45f2530332004e59a0f0ee7e7f9dd06a: Sending packet PONG data None
+45f2530332004e59a0f0ee7e7f9dd06a: Received packet PING data None
+45f2530332004e59a0f0ee7e7f9dd06a: Sending packet PONG data None
+45f2530332004e59a0f0ee7e7f9dd06a: Received packet PING data None
+45f2530332004e59a0f0ee7e7f9dd06a: Sending packet PONG data None
+45f2530332004e59a0f0ee7e7f9dd06a: Received packet PING data None
+45f2530332004e59a0f0ee7e7f9dd06a: Sending packet PONG data None
+45f2530332004e59a0f0ee7e7f9dd06a: Received packet MESSAGE data 2["user_uttered",{"message":"tell me a joke","customData":{}}]
+received event "user_uttered" from 45f2530332004e59a0f0ee7e7f9dd06a [/]
+/Users/kinnari/Project2/news/newsChatbot/env/lib/python2.7/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+Encountered an exception while running action 'action_joke'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+/Users/kinnari/Project2/news/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+/Users/kinnari/Project2/news/newsChatbot/env/lib/python2.7/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Server initialized for gevent.
+Rasa Core server is up and running on http://localhost:5002
+54f18e7fe0a14929a452db5dc9410755: Sending packet OPEN data {'pingInterval': 25000, 'pingTimeout': 60000, 'upgrades': [], 'sid': '54f18e7fe0a14929a452db5dc9410755'}
+54f18e7fe0a14929a452db5dc9410755: Sending packet MESSAGE data 0
+54f18e7fe0a14929a452db5dc9410755: Received packet PING data None
+54f18e7fe0a14929a452db5dc9410755: Sending packet PONG data None
+54f18e7fe0a14929a452db5dc9410755: Received packet PING data None
+54f18e7fe0a14929a452db5dc9410755: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet OPEN data {'pingInterval': 25000, 'pingTimeout': 60000, 'upgrades': [], 'sid': 'b13ac0a9f98e40caa0f6cad5308bcb32'}
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet MESSAGE data 0
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from b13ac0a9f98e40caa0f6cad5308bcb32 [/]
+emitting event "bot_uttered" to b13ac0a9f98e40caa0f6cad5308bcb32 [/]
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet MESSAGE data 2["user_uttered",{"message":"Kinnari","customData":{}}]
+received event "user_uttered" from b13ac0a9f98e40caa0f6cad5308bcb32 [/]
+/Users/kinnari/Project2/news/newsChatbot/env/lib/python2.7/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to b13ac0a9f98e40caa0f6cad5308bcb32 [/]
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet MESSAGE data 2["bot_uttered",{"text":"Nice to you meet you None. How can I help?"}]
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet MESSAGE data 2["user_uttered",{"message":"tell me a joke","customData":{}}]
+received event "user_uttered" from b13ac0a9f98e40caa0f6cad5308bcb32 [/]
+/Users/kinnari/Project2/news/newsChatbot/env/lib/python2.7/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to b13ac0a9f98e40caa0f6cad5308bcb32 [/]
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet MESSAGE data 2["bot_uttered",{"text":"Chuck Norris is in the killing business and to quote Chuck Norris \"Business Is Good."}]
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet MESSAGE data 2["user_uttered",{"message":"tell me a joke","customData":{}}]
+received event "user_uttered" from b13ac0a9f98e40caa0f6cad5308bcb32 [/]
+/Users/kinnari/Project2/news/newsChatbot/env/lib/python2.7/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to b13ac0a9f98e40caa0f6cad5308bcb32 [/]
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet MESSAGE data 2["bot_uttered",{"text":"It's good to be the king. Until Chuck Norris snaps your fucking neck from behind."}]
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+54f18e7fe0a14929a452db5dc9410755: Client is gone, closing socket
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Received packet PING data None
+b13ac0a9f98e40caa0f6cad5308bcb32: Sending packet PONG data None
+feab14e2c58343439af5a38c0c05b2ba: Sending packet OPEN data {'pingInterval': 25000, 'pingTimeout': 60000, 'upgrades': [], 'sid': 'feab14e2c58343439af5a38c0c05b2ba'}
+feab14e2c58343439af5a38c0c05b2ba: Sending packet MESSAGE data 0
+b13ac0a9f98e40caa0f6cad5308bcb32: Client is gone, closing socket
+feab14e2c58343439af5a38c0c05b2ba: Client is gone, closing socket
+c0e6e205039e4687a13b3505aa6067ac: Sending packet OPEN data {'pingInterval': 25000, 'pingTimeout': 60000, 'upgrades': [], 'sid': 'c0e6e205039e4687a13b3505aa6067ac'}
+c0e6e205039e4687a13b3505aa6067ac: Sending packet MESSAGE data 0
+c0e6e205039e4687a13b3505aa6067ac: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from c0e6e205039e4687a13b3505aa6067ac [/]
+emitting event "bot_uttered" to c0e6e205039e4687a13b3505aa6067ac [/]
+c0e6e205039e4687a13b3505aa6067ac: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+c0e6e205039e4687a13b3505aa6067ac: Received packet MESSAGE data 2["user_uttered",{"message":"My name is Kinnari","customData":{}}]
+received event "user_uttered" from c0e6e205039e4687a13b3505aa6067ac [/]
+/Users/kinnari/Project2/news/newsChatbot/env/lib/python2.7/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to c0e6e205039e4687a13b3505aa6067ac [/]
+c0e6e205039e4687a13b3505aa6067ac: Sending packet MESSAGE data 2["bot_uttered",{"text":"Nice to you meet you kinnari. How can I help?"}]
+c0e6e205039e4687a13b3505aa6067ac: Received packet PING data None
+c0e6e205039e4687a13b3505aa6067ac: Sending packet PONG data None
+c0e6e205039e4687a13b3505aa6067ac: Received packet PING data None
+c0e6e205039e4687a13b3505aa6067ac: Sending packet PONG data None
+c0e6e205039e4687a13b3505aa6067ac: Received packet PING data None
+c0e6e205039e4687a13b3505aa6067ac: Sending packet PONG data None
+c0e6e205039e4687a13b3505aa6067ac: Received packet PING data None
+c0e6e205039e4687a13b3505aa6067ac: Sending packet PONG data None
+c0e6e205039e4687a13b3505aa6067ac: Received packet PING data None
+c0e6e205039e4687a13b3505aa6067ac: Sending packet PONG data None
+c0e6e205039e4687a13b3505aa6067ac: Received packet CLOSE data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet OPEN data {'pingInterval': 25000, 'pingTimeout': 60000, 'upgrades': [], 'sid': '38f1ce87671446aba445174ab0fe9c00'}
+38f1ce87671446aba445174ab0fe9c00: Sending packet MESSAGE data 0
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+38f1ce87671446aba445174ab0fe9c00: Received packet PING data None
+38f1ce87671446aba445174ab0fe9c00: Sending packet PONG data None
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Server initialized for gevent.
+Rasa Core server is up and running on http://localhost:5002
+40060884531a4c9c93e90c4aeb74d6ab: Sending packet OPEN data {'pingInterval': 25000, 'pingTimeout': 60000, 'upgrades': [], 'sid': '40060884531a4c9c93e90c4aeb74d6ab'}
+40060884531a4c9c93e90c4aeb74d6ab: Sending packet MESSAGE data 0
+40060884531a4c9c93e90c4aeb74d6ab: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from 40060884531a4c9c93e90c4aeb74d6ab [/]
+emitting event "bot_uttered" to 40060884531a4c9c93e90c4aeb74d6ab [/]
+40060884531a4c9c93e90c4aeb74d6ab: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+40060884531a4c9c93e90c4aeb74d6ab: Received packet PING data None
+40060884531a4c9c93e90c4aeb74d6ab: Sending packet PONG data None
+40060884531a4c9c93e90c4aeb74d6ab: Received packet PING data None
+40060884531a4c9c93e90c4aeb74d6ab: Sending packet PONG data None
+40060884531a4c9c93e90c4aeb74d6ab: Received packet PING data None
+40060884531a4c9c93e90c4aeb74d6ab: Sending packet PONG data None
+40060884531a4c9c93e90c4aeb74d6ab: Received packet PING data None
+40060884531a4c9c93e90c4aeb74d6ab: Sending packet PONG data None
+40060884531a4c9c93e90c4aeb74d6ab: Received packet PING data None
+40060884531a4c9c93e90c4aeb74d6ab: Sending packet PONG data None
+1b3b53cdc4844a23821a957fcd401bea: Sending packet OPEN data {'pingInterval': 25000, 'pingTimeout': 60000, 'upgrades': [], 'sid': '1b3b53cdc4844a23821a957fcd401bea'}
+1b3b53cdc4844a23821a957fcd401bea: Sending packet MESSAGE data 0
+1b3b53cdc4844a23821a957fcd401bea: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from 1b3b53cdc4844a23821a957fcd401bea [/]
+emitting event "bot_uttered" to 1b3b53cdc4844a23821a957fcd401bea [/]
+1b3b53cdc4844a23821a957fcd401bea: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+1b3b53cdc4844a23821a957fcd401bea: Received packet MESSAGE data 2["user_uttered",{"message":"My name is Kinnari","customData":{}}]
+received event "user_uttered" from 1b3b53cdc4844a23821a957fcd401bea [/]
+message handler error
+Traceback (most recent call last):
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/engineio/server.py", line 423, in _trigger_event
+    return self.handlers[event](*args)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 522, in _handle_eio_message
+    self._handle_event(sid, pkt.namespace, pkt.id, pkt.data)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 458, in _handle_event
+    self._handle_event_internal(self, sid, data, namespace, id)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 461, in _handle_event_internal
+    r = server._trigger_event(data[0], namespace, sid, *data[1:])
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 490, in _trigger_event
+    return self.handlers[namespace][event](*args)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/channels/socketio.py", line 149, in handle_message
+    on_new_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/agent.py", line 317, in handle_message
+    return processor.handle_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 82, in handle_message
+    tracker = self.log_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 129, in log_message
+    self._handle_message_with_tracker(message, tracker)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 269, in _handle_message_with_tracker
+    parse_data = self._parse_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 255, in _parse_message
+    parse_data = self.interpreter.parse(message.text)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/interpreter.py", line 293, in parse
+    return self.interpreter.parse(text)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/model.py", line 357, in parse
+    component.process(message, **self.context)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/classifiers/sklearn_intent_classifier.py", line 181, in process
+    intents = self.transform_labels_num2str(intent_ids)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/classifiers/sklearn_intent_classifier.py", line 115, in transform_labels_num2str
+    return self.le.inverse_transform(y)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/sklearn/preprocessing/label.py", line 273, in inverse_transform
+    y = column_or_1d(y, warn=True)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/sklearn/utils/validation.py", line 797, in column_or_1d
+    raise ValueError("bad input shape {0}".format(shape))
+ValueError: bad input shape (1, 6)
+1b3b53cdc4844a23821a957fcd401bea: Received packet PING data None
+1b3b53cdc4844a23821a957fcd401bea: Sending packet PONG data None
+1b3b53cdc4844a23821a957fcd401bea: Received packet PING data None
+1b3b53cdc4844a23821a957fcd401bea: Sending packet PONG data None
+40060884531a4c9c93e90c4aeb74d6ab: Client is gone, closing socket
+1b3b53cdc4844a23821a957fcd401bea: Received packet MESSAGE data 2["user_uttered",{"message":"hi","customData":{}}]
+received event "user_uttered" from 1b3b53cdc4844a23821a957fcd401bea [/]
+message handler error
+Traceback (most recent call last):
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/engineio/server.py", line 423, in _trigger_event
+    return self.handlers[event](*args)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 522, in _handle_eio_message
+    self._handle_event(sid, pkt.namespace, pkt.id, pkt.data)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 458, in _handle_event
+    self._handle_event_internal(self, sid, data, namespace, id)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 461, in _handle_event_internal
+    r = server._trigger_event(data[0], namespace, sid, *data[1:])
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 490, in _trigger_event
+    return self.handlers[namespace][event](*args)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/channels/socketio.py", line 149, in handle_message
+    on_new_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/agent.py", line 317, in handle_message
+    return processor.handle_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 82, in handle_message
+    tracker = self.log_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 129, in log_message
+    self._handle_message_with_tracker(message, tracker)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 269, in _handle_message_with_tracker
+    parse_data = self._parse_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 255, in _parse_message
+    parse_data = self.interpreter.parse(message.text)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/interpreter.py", line 293, in parse
+    return self.interpreter.parse(text)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/model.py", line 357, in parse
+    component.process(message, **self.context)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/classifiers/sklearn_intent_classifier.py", line 181, in process
+    intents = self.transform_labels_num2str(intent_ids)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/classifiers/sklearn_intent_classifier.py", line 115, in transform_labels_num2str
+    return self.le.inverse_transform(y)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/sklearn/preprocessing/label.py", line 273, in inverse_transform
+    y = column_or_1d(y, warn=True)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/sklearn/utils/validation.py", line 797, in column_or_1d
+    raise ValueError("bad input shape {0}".format(shape))
+ValueError: bad input shape (1, 6)
+1b3b53cdc4844a23821a957fcd401bea: Received packet PING data None
+1b3b53cdc4844a23821a957fcd401bea: Sending packet PONG data None
+d5cb72be59d9407c91e4ddecebb7c736: Sending packet OPEN data {'pingInterval': 25000, 'pingTimeout': 60000, 'upgrades': [], 'sid': 'd5cb72be59d9407c91e4ddecebb7c736'}
+d5cb72be59d9407c91e4ddecebb7c736: Sending packet MESSAGE data 0
+d5cb72be59d9407c91e4ddecebb7c736: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from d5cb72be59d9407c91e4ddecebb7c736 [/]
+emitting event "bot_uttered" to d5cb72be59d9407c91e4ddecebb7c736 [/]
+d5cb72be59d9407c91e4ddecebb7c736: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+d5cb72be59d9407c91e4ddecebb7c736: Received packet MESSAGE data 2["user_uttered",{"message":"my name is kinnari","customData":{}}]
+received event "user_uttered" from d5cb72be59d9407c91e4ddecebb7c736 [/]
+message handler error
+Traceback (most recent call last):
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/engineio/server.py", line 423, in _trigger_event
+    return self.handlers[event](*args)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 522, in _handle_eio_message
+    self._handle_event(sid, pkt.namespace, pkt.id, pkt.data)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 458, in _handle_event
+    self._handle_event_internal(self, sid, data, namespace, id)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 461, in _handle_event_internal
+    r = server._trigger_event(data[0], namespace, sid, *data[1:])
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 490, in _trigger_event
+    return self.handlers[namespace][event](*args)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/channels/socketio.py", line 149, in handle_message
+    on_new_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/agent.py", line 317, in handle_message
+    return processor.handle_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 82, in handle_message
+    tracker = self.log_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 129, in log_message
+    self._handle_message_with_tracker(message, tracker)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 269, in _handle_message_with_tracker
+    parse_data = self._parse_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 255, in _parse_message
+    parse_data = self.interpreter.parse(message.text)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/interpreter.py", line 293, in parse
+    return self.interpreter.parse(text)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/model.py", line 357, in parse
+    component.process(message, **self.context)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/classifiers/sklearn_intent_classifier.py", line 181, in process
+    intents = self.transform_labels_num2str(intent_ids)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/classifiers/sklearn_intent_classifier.py", line 115, in transform_labels_num2str
+    return self.le.inverse_transform(y)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/sklearn/preprocessing/label.py", line 273, in inverse_transform
+    y = column_or_1d(y, warn=True)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/sklearn/utils/validation.py", line 797, in column_or_1d
+    raise ValueError("bad input shape {0}".format(shape))
+ValueError: bad input shape (1, 6)
+d5cb72be59d9407c91e4ddecebb7c736: Received packet PING data None
+d5cb72be59d9407c91e4ddecebb7c736: Sending packet PONG data None
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Server initialized for gevent.
+Rasa Core server is up and running on http://localhost:5002
+e058558a3ac54f638073cdfd78a74bf0: Sending packet OPEN data {'pingInterval': 25000, 'pingTimeout': 60000, 'upgrades': [], 'sid': 'e058558a3ac54f638073cdfd78a74bf0'}
+e058558a3ac54f638073cdfd78a74bf0: Sending packet MESSAGE data 0
+7c07c60bb6884df29beefd0007d2b403: Sending packet OPEN data {'pingInterval': 25000, 'pingTimeout': 60000, 'upgrades': [], 'sid': '7c07c60bb6884df29beefd0007d2b403'}
+7c07c60bb6884df29beefd0007d2b403: Sending packet MESSAGE data 0
+7c07c60bb6884df29beefd0007d2b403: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from 7c07c60bb6884df29beefd0007d2b403 [/]
+emitting event "bot_uttered" to 7c07c60bb6884df29beefd0007d2b403 [/]
+7c07c60bb6884df29beefd0007d2b403: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+7c07c60bb6884df29beefd0007d2b403: Received packet MESSAGE data 2["user_uttered",{"message":"my name is Kinnari","customData":{}}]
+received event "user_uttered" from 7c07c60bb6884df29beefd0007d2b403 [/]
+message handler error
+Traceback (most recent call last):
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/engineio/server.py", line 423, in _trigger_event
+    return self.handlers[event](*args)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 522, in _handle_eio_message
+    self._handle_event(sid, pkt.namespace, pkt.id, pkt.data)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 458, in _handle_event
+    self._handle_event_internal(self, sid, data, namespace, id)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 461, in _handle_event_internal
+    r = server._trigger_event(data[0], namespace, sid, *data[1:])
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 490, in _trigger_event
+    return self.handlers[namespace][event](*args)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/channels/socketio.py", line 149, in handle_message
+    on_new_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/agent.py", line 317, in handle_message
+    return processor.handle_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 82, in handle_message
+    tracker = self.log_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 129, in log_message
+    self._handle_message_with_tracker(message, tracker)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 269, in _handle_message_with_tracker
+    parse_data = self._parse_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 255, in _parse_message
+    parse_data = self.interpreter.parse(message.text)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/interpreter.py", line 293, in parse
+    return self.interpreter.parse(text)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/model.py", line 357, in parse
+    component.process(message, **self.context)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/classifiers/sklearn_intent_classifier.py", line 181, in process
+    intents = self.transform_labels_num2str(intent_ids)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/classifiers/sklearn_intent_classifier.py", line 115, in transform_labels_num2str
+    return self.le.inverse_transform(y)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/sklearn/preprocessing/label.py", line 273, in inverse_transform
+    y = column_or_1d(y, warn=True)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/sklearn/utils/validation.py", line 797, in column_or_1d
+    raise ValueError("bad input shape {0}".format(shape))
+ValueError: bad input shape (1, 6)
+7c07c60bb6884df29beefd0007d2b403: Received packet PING data None
+7c07c60bb6884df29beefd0007d2b403: Sending packet PONG data None
+e058558a3ac54f638073cdfd78a74bf0: Client is gone, closing socket
+e058558a3ac54f638073cdfd78a74bf0: Client is gone, closing socket
+7c07c60bb6884df29beefd0007d2b403: Received packet PING data None
+7c07c60bb6884df29beefd0007d2b403: Sending packet PONG data None
+f21e9a69e3b349eba8ef8c4e54900682: Sending packet OPEN data {'pingInterval': 25000, 'pingTimeout': 60000, 'upgrades': [], 'sid': 'f21e9a69e3b349eba8ef8c4e54900682'}
+f21e9a69e3b349eba8ef8c4e54900682: Sending packet MESSAGE data 0
+f21e9a69e3b349eba8ef8c4e54900682: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from f21e9a69e3b349eba8ef8c4e54900682 [/]
+emitting event "bot_uttered" to f21e9a69e3b349eba8ef8c4e54900682 [/]
+f21e9a69e3b349eba8ef8c4e54900682: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+f21e9a69e3b349eba8ef8c4e54900682: Received packet MESSAGE data 2["user_uttered",{"message":"my name is kinnari","customData":{}}]
+received event "user_uttered" from f21e9a69e3b349eba8ef8c4e54900682 [/]
+message handler error
+Traceback (most recent call last):
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/engineio/server.py", line 423, in _trigger_event
+    return self.handlers[event](*args)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 522, in _handle_eio_message
+    self._handle_event(sid, pkt.namespace, pkt.id, pkt.data)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 458, in _handle_event
+    self._handle_event_internal(self, sid, data, namespace, id)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 461, in _handle_event_internal
+    r = server._trigger_event(data[0], namespace, sid, *data[1:])
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 490, in _trigger_event
+    return self.handlers[namespace][event](*args)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/channels/socketio.py", line 149, in handle_message
+    on_new_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/agent.py", line 317, in handle_message
+    return processor.handle_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 82, in handle_message
+    tracker = self.log_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 129, in log_message
+    self._handle_message_with_tracker(message, tracker)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 269, in _handle_message_with_tracker
+    parse_data = self._parse_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 255, in _parse_message
+    parse_data = self.interpreter.parse(message.text)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/interpreter.py", line 293, in parse
+    return self.interpreter.parse(text)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/model.py", line 357, in parse
+    component.process(message, **self.context)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/classifiers/sklearn_intent_classifier.py", line 181, in process
+    intents = self.transform_labels_num2str(intent_ids)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/classifiers/sklearn_intent_classifier.py", line 115, in transform_labels_num2str
+    return self.le.inverse_transform(y)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/sklearn/preprocessing/label.py", line 273, in inverse_transform
+    y = column_or_1d(y, warn=True)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/sklearn/utils/validation.py", line 797, in column_or_1d
+    raise ValueError("bad input shape {0}".format(shape))
+ValueError: bad input shape (1, 6)
+f21e9a69e3b349eba8ef8c4e54900682: Received packet PING data None
+f21e9a69e3b349eba8ef8c4e54900682: Sending packet PONG data None
+e0686723d4884722bc89e5e057599ccc: Sending packet OPEN data {'pingInterval': 25000, 'pingTimeout': 60000, 'upgrades': [], 'sid': 'e0686723d4884722bc89e5e057599ccc'}
+e0686723d4884722bc89e5e057599ccc: Sending packet MESSAGE data 0
+e0686723d4884722bc89e5e057599ccc: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from e0686723d4884722bc89e5e057599ccc [/]
+emitting event "bot_uttered" to e0686723d4884722bc89e5e057599ccc [/]
+e0686723d4884722bc89e5e057599ccc: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+e0686723d4884722bc89e5e057599ccc: Received packet MESSAGE data 2["user_uttered",{"message":"kinnari","customData":{}}]
+received event "user_uttered" from e0686723d4884722bc89e5e057599ccc [/]
+message handler error
+Traceback (most recent call last):
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/engineio/server.py", line 423, in _trigger_event
+    return self.handlers[event](*args)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 522, in _handle_eio_message
+    self._handle_event(sid, pkt.namespace, pkt.id, pkt.data)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 458, in _handle_event
+    self._handle_event_internal(self, sid, data, namespace, id)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 461, in _handle_event_internal
+    r = server._trigger_event(data[0], namespace, sid, *data[1:])
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 490, in _trigger_event
+    return self.handlers[namespace][event](*args)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/channels/socketio.py", line 149, in handle_message
+    on_new_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/agent.py", line 317, in handle_message
+    return processor.handle_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 82, in handle_message
+    tracker = self.log_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 129, in log_message
+    self._handle_message_with_tracker(message, tracker)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 269, in _handle_message_with_tracker
+    parse_data = self._parse_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 255, in _parse_message
+    parse_data = self.interpreter.parse(message.text)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/interpreter.py", line 293, in parse
+    return self.interpreter.parse(text)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/model.py", line 357, in parse
+    component.process(message, **self.context)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/classifiers/sklearn_intent_classifier.py", line 181, in process
+    intents = self.transform_labels_num2str(intent_ids)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/classifiers/sklearn_intent_classifier.py", line 115, in transform_labels_num2str
+    return self.le.inverse_transform(y)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/sklearn/preprocessing/label.py", line 273, in inverse_transform
+    y = column_or_1d(y, warn=True)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/sklearn/utils/validation.py", line 797, in column_or_1d
+    raise ValueError("bad input shape {0}".format(shape))
+ValueError: bad input shape (1, 6)
+74fc140fe2364c16902d08d6b98ca2d7: Sending packet OPEN data {'pingInterval': 25000, 'pingTimeout': 60000, 'upgrades': [], 'sid': '74fc140fe2364c16902d08d6b98ca2d7'}
+74fc140fe2364c16902d08d6b98ca2d7: Sending packet MESSAGE data 0
+74fc140fe2364c16902d08d6b98ca2d7: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from 74fc140fe2364c16902d08d6b98ca2d7 [/]
+emitting event "bot_uttered" to 74fc140fe2364c16902d08d6b98ca2d7 [/]
+74fc140fe2364c16902d08d6b98ca2d7: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+7c07c60bb6884df29beefd0007d2b403: Client is gone, closing socket
+74fc140fe2364c16902d08d6b98ca2d7: Received packet MESSAGE data 2["user_uttered",{"message":"kinnari","customData":{}}]
+received event "user_uttered" from 74fc140fe2364c16902d08d6b98ca2d7 [/]
+message handler error
+Traceback (most recent call last):
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/engineio/server.py", line 423, in _trigger_event
+    return self.handlers[event](*args)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 522, in _handle_eio_message
+    self._handle_event(sid, pkt.namespace, pkt.id, pkt.data)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 458, in _handle_event
+    self._handle_event_internal(self, sid, data, namespace, id)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 461, in _handle_event_internal
+    r = server._trigger_event(data[0], namespace, sid, *data[1:])
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/socketio/server.py", line 490, in _trigger_event
+    return self.handlers[namespace][event](*args)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/channels/socketio.py", line 149, in handle_message
+    on_new_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/agent.py", line 317, in handle_message
+    return processor.handle_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 82, in handle_message
+    tracker = self.log_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 129, in log_message
+    self._handle_message_with_tracker(message, tracker)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 269, in _handle_message_with_tracker
+    parse_data = self._parse_message(message)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/processor.py", line 255, in _parse_message
+    parse_data = self.interpreter.parse(message.text)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_core/interpreter.py", line 293, in parse
+    return self.interpreter.parse(text)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/model.py", line 357, in parse
+    component.process(message, **self.context)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/classifiers/sklearn_intent_classifier.py", line 181, in process
+    intents = self.transform_labels_num2str(intent_ids)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/rasa_nlu/classifiers/sklearn_intent_classifier.py", line 115, in transform_labels_num2str
+    return self.le.inverse_transform(y)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/sklearn/preprocessing/label.py", line 273, in inverse_transform
+    y = column_or_1d(y, warn=True)
+  File "/Users/kinnari/Project2/newsChatbot/env/lib/python2.7/site-packages/sklearn/utils/validation.py", line 797, in column_or_1d
+    raise ValueError("bad input shape {0}".format(shape))
+ValueError: bad input shape (1, 6)
+74fc140fe2364c16902d08d6b98ca2d7: Received packet CLOSE data None
+c634225f4a364ed1aaa0bc2ac6a83dc6: Sending packet OPEN data {'pingInterval': 25000, 'pingTimeout': 60000, 'upgrades': [], 'sid': 'c634225f4a364ed1aaa0bc2ac6a83dc6'}
+c634225f4a364ed1aaa0bc2ac6a83dc6: Sending packet MESSAGE data 0
+c634225f4a364ed1aaa0bc2ac6a83dc6: Received packet PING data None
+c634225f4a364ed1aaa0bc2ac6a83dc6: Sending packet PONG data None
+f21e9a69e3b349eba8ef8c4e54900682: Client is gone, closing socket
+e0686723d4884722bc89e5e057599ccc: Client is gone, closing socket
+e0686723d4884722bc89e5e057599ccc: Client is gone, closing socket
+c634225f4a364ed1aaa0bc2ac6a83dc6: Received packet PING data None
+c634225f4a364ed1aaa0bc2ac6a83dc6: Sending packet PONG data None
+c634225f4a364ed1aaa0bc2ac6a83dc6: Received packet PING data None
+c634225f4a364ed1aaa0bc2ac6a83dc6: Sending packet PONG data None
+c634225f4a364ed1aaa0bc2ac6a83dc6: Received packet PING data None
+c634225f4a364ed1aaa0bc2ac6a83dc6: Sending packet PONG data None
+c634225f4a364ed1aaa0bc2ac6a83dc6: Received packet PING data None
+c634225f4a364ed1aaa0bc2ac6a83dc6: Sending packet PONG data None
+c634225f4a364ed1aaa0bc2ac6a83dc6: Received packet PING data None
+c634225f4a364ed1aaa0bc2ac6a83dc6: Sending packet PONG data None
+c634225f4a364ed1aaa0bc2ac6a83dc6: Received packet PING data None
+c634225f4a364ed1aaa0bc2ac6a83dc6: Sending packet PONG data None
+c634225f4a364ed1aaa0bc2ac6a83dc6: Received packet PING data None
+c634225f4a364ed1aaa0bc2ac6a83dc6: Sending packet PONG data None
+c634225f4a364ed1aaa0bc2ac6a83dc6: Received packet PING data None
+c634225f4a364ed1aaa0bc2ac6a83dc6: Sending packet PONG data None
+c634225f4a364ed1aaa0bc2ac6a83dc6: Received packet PING data None
+c634225f4a364ed1aaa0bc2ac6a83dc6: Sending packet PONG data None
+c634225f4a364ed1aaa0bc2ac6a83dc6: Received packet PING data None
+c634225f4a364ed1aaa0bc2ac6a83dc6: Sending packet PONG data None

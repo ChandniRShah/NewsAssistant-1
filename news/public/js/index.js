@@ -25,8 +25,8 @@ function getTopNews(){
             format:"json"
         },
         success:function(response){
-           console.log(response);
-            console.log(response.articles.length);
+           // console.log(response);
+           //  console.log(response.articles.length);
             for (i = 0; i < response.articles.length; i++) {
 
               title = response.articles[i].title;
@@ -66,8 +66,8 @@ function getSportsNews(){
             format:"json"
         },
         success:function(response){
-           console.log(response);
-            console.log(response.articles.length);
+           // console.log(response);
+           //  console.log(response.articles.length);
             for (i = 0; i < response.articles.length; i++) {
 
               title = response.articles[i].title;
@@ -106,8 +106,8 @@ function getEntertainmentNews(){
             format:"json"
         },
         success:function(response){
-           console.log(response);
-            console.log(response.articles.length);
+           // console.log(response);
+           //  console.log(response.articles.length);
             for (i = 0; i < response.articles.length; i++) {
 
               title = response.articles[i].title;
@@ -146,8 +146,8 @@ function getTechnologyNews(){
             format:"json"
         },
         success:function(response){
-           console.log(response);
-            console.log(response.articles.length);
+           // console.log(response);
+           //  console.log(response.articles.length);
             for (i = 0; i < response.articles.length; i++) {
 
               title = response.articles[i].title;
@@ -158,7 +158,7 @@ function getTechnologyNews(){
               str=str+"<article>";
         			str=str+"<a href=\"#\"><img src="+urlToImage+" alt=\"\"/></a>";
         			str=str+"<h1>"+title+"</h1>";
-        			str=str+"<p>"+description+"</p>"
+        			str=str+"<p class='ellipsis'>"+description+"</p>"
         			str=str+"<a  target=\"_blank\" href=\""+url+"\" class=\"readmore\">Read more</a>"
         			str=str+"</article>";
 
@@ -186,8 +186,8 @@ function getFashionNews(){
             format:"json"
         },
         success:function(response){
-           console.log(response);
-            console.log(response.articles.length);
+           // console.log(response);
+           //  console.log(response.articles.length);
             for (i = 0; i < response.articles.length; i++) {
 
               title = response.articles[i].title;

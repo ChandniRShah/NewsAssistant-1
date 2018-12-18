@@ -14,12 +14,32 @@
 * name{"name":"Sam"}
  - utter_greet
  
-
 ## story_joke_01
 * joke
  - action_joke
- 
-## story_joke_02
+
+## story_technews
+* technews
+ - action_technews
+
+## story_businessnews
+* businessnews
+ - action_businessnews
+
+## story_healthnews
+* healthnews
+ - action_healthnews
+
+## story_sportsnews
+* sportsnews
+ - action_sportsnews
+
+## story_searchnews
+* searchnews
+ - utter_searchnews
+ - action_searchnews
+
+ ## story_joke_02
 * greet
  - utter_name
 * name{"name":"Lucy"} <!--- User response with an entity. In this case it represents user message 'My name is Lucy.' --> 

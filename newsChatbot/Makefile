@@ -32,6 +32,7 @@ train-core:
 
 cmdline:
 	python -m rasa_core.run -d models/current/dialogue -u models/current/nlu --endpoints endpoints.yml
+	python -m rasa_core.run -d models/current/dialogue -u models/current/nlu --port 5002 --credentials credentials.yml --endpoints endpoints.yml
 	
 action-server:
 	python -m rasa_core_sdk.endpoint --actions actions

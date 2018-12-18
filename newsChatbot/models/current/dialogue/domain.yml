@@ -1,40 +1,63 @@
+%YAML 1.1
+---
 actions:
 - utter_name
 - utter_thanks
 - utter_greet
 - utter_goodbye
+- utter_searchnews
 - action_joke
+- action_technews
+- action_businessnews
+- action_healthnews
+- action_sportsnews
+- action_searchnews
 config:
   store_entities_as_slots: true
 entities:
 - name
+- searchterm
 forms: []
 intents:
-- deny:
-    use_entities: true
-- thanks:
+- greet:
     use_entities: true
 - goodbye:
     use_entities: true
+- thanks:
+    use_entities: true
+- deny:
+    use_entities: true
 - joke:
     use_entities: true
-- greet:
-    use_entities: true
 - name:
+    use_entities: true
+- technews:
+    use_entities: true
+- businessnews:
+    use_entities: true
+- healthnews:
+    use_entities: true
+- sportssnews:
+    use_entities: true
+- searchnews:
     use_entities: true
 slots:
   name:
     auto_fill: true
     initial_value: null
     type: rasa_core.slots.TextSlot
+  searchterm:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
 templates:
-  action_joke:
-  - text: Tell me a joke.
   utter_goodbye:
   - text: Talk to you later!
   utter_greet:
   - text: Nice to you meet you {name}. How can I help?
   utter_name:
   - text: Hey there! Tell me your name.
+  utter_searchnews:
+  - text: Here is the news on {searchterm}.
   utter_thanks:
   - text: My pleasure.

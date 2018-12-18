@@ -5,24 +5,35 @@ intents:
 - deny
 - joke
 - name
-
+- technews
+- businessnews
+- healthnews
+- sportssnews
+- searchnews
 
 entities:
 - name
+- searchterm
 
 
 slots:
   name:
     type: text
-
+  searchterm:
+    type: text
 
 actions:
 - utter_name
 - utter_thanks
 - utter_greet
 - utter_goodbye
+- utter_searchnews
 - action_joke
-
+- action_technews
+- action_businessnews
+- action_healthnews
+- action_sportsnews
+- action_searchnews
 
 templates:
   utter_name:
@@ -37,6 +48,5 @@ templates:
   utter_thanks:
   - text: "My pleasure."
 
-  action_joke:
-  - text: "Tell me a joke."
-
+  utter_searchnews:
+  - text: "Here is the news on {searchterm}."

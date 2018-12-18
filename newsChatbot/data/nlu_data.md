@@ -91,3 +91,46 @@
 - Can you tell jokes?
 - Please tell me a joke
 - I need to hear a joke
+- Make me laugh
+
+## intent:technews
+- tech news
+- show me tech news
+- show me technology news
+- technology
+- technology news
+
+## intent:businessnews
+- business news
+- show me business news
+- show me business news
+- business
+- business news
+
+## intent:sportsnews
+- sports news
+- show me sports news
+- show me sports news
+- sports
+- sports news
+
+## intent:healthnews
+- health news
+- show me health news
+- show me health news
+- health
+- health news
+
+## intent:searchnews
+- search for [bitcoin](searchterm)
+- search [bitcoin](searchterm)
+- search for [trump](searchterm)
+- search [trump](searchterm)
+- search for [bitcoin](searchterm)
+- search for [moviepass](searchterm)
+- search (searchterm)
+- search for [hillary](searchterm)
+- search for [pace university](searchterm)
+- search for [H1B](searchterm)
+- search for [amc](searchterm)
+- search for [border wall](searchterm)

@@ -9,3 +9,7 @@ https://github.com/paceuniversityCS691TeamB/NewsAssistant/wiki
 Project Tasks Status:
 https://github.com/paceuniversityCS691TeamB/NewsAssistant/projects/1
 
+Heroku Aplication Link:
+http://newsassistant.herokuapp.com/
+
+

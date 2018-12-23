@@ -5,34 +5,34 @@
         "name"
       ]
     },
-    "utter_thanks": {
+    "utter_name": {
+      "slots": []
+    },
+    "utter_goodbye": {
       "slots": []
     },
     "action_searchnews": {
       "slots": []
     },
+    "utter_greet": {
+      "slots": []
+    },
     "action_technews": {
       "slots": []
     },
-    "utter_goodbye": {
+    "action_businessnews": {
+      "slots": []
+    },
+    "action_sportsnews": {
+      "slots": []
+    },
+    "utter_thanks": {
       "slots": []
     },
     "action_joke": {
       "slots": []
     },
     "action_healthnews": {
-      "slots": []
-    },
-    "action_businessnews": {
-      "slots": []
-    },
-    "utter_name": {
-      "slots": []
-    },
-    "action_sportsnews": {
-      "slots": []
-    },
-    "utter_greet": {
       "slots": []
     }
   },
@@ -47,5 +47,5 @@
     "rasa_core.policies.keras_policy.KerasPolicy",
     "rasa_core.policies.memoization.MemoizationPolicy"
   ],
-  "trained_at": "20181218-161806"
+  "trained_at": "20181218-180004"
 }

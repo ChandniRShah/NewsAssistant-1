@@ -5115,3 +5115,1556 @@ emitting event "bot_uttered" to 008dd58107d249b5aeffc4cb4c665a15 [/]
 008dd58107d249b5aeffc4cb4c665a15: Sending packet PONG data None
 008dd58107d249b5aeffc4cb4c665a15: Received packet PING data None
 008dd58107d249b5aeffc4cb4c665a15: Sending packet PONG data None
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Server initialized for gevent.
+Rasa Core server is up and running on http://localhost:5002
+f1c6ba9b61504632989c72fca90811ca: Sending packet OPEN data {'sid': 'f1c6ba9b61504632989c72fca90811ca', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+f1c6ba9b61504632989c72fca90811ca: Sending packet MESSAGE data 0
+f1c6ba9b61504632989c72fca90811ca: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from f1c6ba9b61504632989c72fca90811ca [/]
+emitting event "bot_uttered" to f1c6ba9b61504632989c72fca90811ca [/]
+f1c6ba9b61504632989c72fca90811ca: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+f1c6ba9b61504632989c72fca90811ca: Received packet PING data None
+f1c6ba9b61504632989c72fca90811ca: Sending packet PONG data None
+f1c6ba9b61504632989c72fca90811ca: Received packet PING data None
+f1c6ba9b61504632989c72fca90811ca: Sending packet PONG data None
+f1c6ba9b61504632989c72fca90811ca: Received packet PING data None
+f1c6ba9b61504632989c72fca90811ca: Sending packet PONG data None
+f1c6ba9b61504632989c72fca90811ca: Received packet PING data None
+f1c6ba9b61504632989c72fca90811ca: Sending packet PONG data None
+f1c6ba9b61504632989c72fca90811ca: Received packet PING data None
+f1c6ba9b61504632989c72fca90811ca: Sending packet PONG data None
+f1c6ba9b61504632989c72fca90811ca: Received packet PING data None
+f1c6ba9b61504632989c72fca90811ca: Sending packet PONG data None
+f1c6ba9b61504632989c72fca90811ca: Received packet PING data None
+f1c6ba9b61504632989c72fca90811ca: Sending packet PONG data None
+f1c6ba9b61504632989c72fca90811ca: Received packet PING data None
+f1c6ba9b61504632989c72fca90811ca: Sending packet PONG data None
+f1c6ba9b61504632989c72fca90811ca: Received packet PING data None
+f1c6ba9b61504632989c72fca90811ca: Sending packet PONG data None
+f1c6ba9b61504632989c72fca90811ca: Received packet PING data None
+f1c6ba9b61504632989c72fca90811ca: Sending packet PONG data None
+f1c6ba9b61504632989c72fca90811ca: Received packet PING data None
+f1c6ba9b61504632989c72fca90811ca: Sending packet PONG data None
+f1c6ba9b61504632989c72fca90811ca: Received packet PING data None
+f1c6ba9b61504632989c72fca90811ca: Sending packet PONG data None
+f1c6ba9b61504632989c72fca90811ca: Received packet PING data None
+f1c6ba9b61504632989c72fca90811ca: Sending packet PONG data None
+f1c6ba9b61504632989c72fca90811ca: Received packet PING data None
+f1c6ba9b61504632989c72fca90811ca: Sending packet PONG data None
+f1c6ba9b61504632989c72fca90811ca: Client is gone, closing socket
+3d4d748dac2843f099483cab64a6b695: Sending packet OPEN data {'sid': '3d4d748dac2843f099483cab64a6b695', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+3d4d748dac2843f099483cab64a6b695: Sending packet MESSAGE data 0
+3d4d748dac2843f099483cab64a6b695: Received packet PING data None
+3d4d748dac2843f099483cab64a6b695: Sending packet PONG data None
+9fb100056f1a46c98b9296affc68c872: Sending packet OPEN data {'sid': '9fb100056f1a46c98b9296affc68c872', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+9fb100056f1a46c98b9296affc68c872: Sending packet MESSAGE data 0
+9fb100056f1a46c98b9296affc68c872: Received packet PING data None
+9fb100056f1a46c98b9296affc68c872: Sending packet PONG data None
+9fb100056f1a46c98b9296affc68c872: Received packet PING data None
+9fb100056f1a46c98b9296affc68c872: Sending packet PONG data None
+3d4d748dac2843f099483cab64a6b695: Client is gone, closing socket
+5af8d986da584adaa5e1c30bd6380b61: Sending packet OPEN data {'sid': '5af8d986da584adaa5e1c30bd6380b61', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+5af8d986da584adaa5e1c30bd6380b61: Sending packet MESSAGE data 0
+a76ef5492f46450d880e87bf6be95126: Sending packet OPEN data {'sid': 'a76ef5492f46450d880e87bf6be95126', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+a76ef5492f46450d880e87bf6be95126: Sending packet MESSAGE data 0
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+9fb100056f1a46c98b9296affc68c872: Client is gone, closing socket
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+5af8d986da584adaa5e1c30bd6380b61: Client is gone, closing socket
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+a76ef5492f46450d880e87bf6be95126: Received packet PING data None
+a76ef5492f46450d880e87bf6be95126: Sending packet PONG data None
+fc3ff516405145d1bda9cecfe1f5428f: Sending packet OPEN data {'sid': 'fc3ff516405145d1bda9cecfe1f5428f', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+fc3ff516405145d1bda9cecfe1f5428f: Sending packet MESSAGE data 0
+2c08687aba8b48648d9329dda0b5f90d: Sending packet OPEN data {'sid': '2c08687aba8b48648d9329dda0b5f90d', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 0
+a76ef5492f46450d880e87bf6be95126: Client is gone, closing socket
+2c08687aba8b48648d9329dda0b5f90d: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from 2c08687aba8b48648d9329dda0b5f90d [/]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+fc3ff516405145d1bda9cecfe1f5428f: Client is gone, closing socket
+2c08687aba8b48648d9329dda0b5f90d: Received packet PING data None
+2c08687aba8b48648d9329dda0b5f90d: Sending packet PONG data None
+2c08687aba8b48648d9329dda0b5f90d: Received packet MESSAGE data 2["user_uttered",{"message":"my name is pradeep","customData":{}}]
+received event "user_uttered" from 2c08687aba8b48648d9329dda0b5f90d [/]
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Nice to you meet you pradeep. How can I help?"}]
+2c08687aba8b48648d9329dda0b5f90d: Received packet MESSAGE data 2["user_uttered",{"message":"show me sports news","customData":{}}]
+received event "user_uttered" from 2c08687aba8b48648d9329dda0b5f90d [/]
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Amazon bids on Fox regional sports channels from Disney deal:https://www.engadget.com/2018/11/20/amazon-bids-for-disney-regional-sports-channels/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Meet Flambo, the newest adorable sports dog:https://mashable.com/article/flambo-montreal-canadiens-sports-dog/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"What a shot! 33 amazing sports photos:https://edition.cnn.com/2018/11/19/sport/gallery/what-a-shot-sports-1118/index.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"What a shot! 28 amazing sports photos:https://edition.cnn.com/2018/11/26/sport/gallery/what-a-shot-sports-1125/index.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"What a shot! 31 amazing sports photos:https://edition.cnn.com/2018/12/02/sport/gallery/what-a-shot-sports-1202/index.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Sports Personality nominees: Anderson, Asher-Smith, Hamilton, Kane, Thomas and Yarnold shortlisted:https://www.bbc.co.uk/sport/sports-personality/46566120"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"What a shot! 33 amazing sports photos:https://edition.cnn.com/2018/12/09/sport/gallery/what-a-shot-sports-1209/index.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"What a shot! 31 amazing sports photos:https://edition.cnn.com/2018/12/17/sport/gallery/what-a-shot-sports-1216/index.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Baddiel & Skinner to sing Three Lions at Sports Personality:https://www.bbc.co.uk/sport/sports-personality/46482571"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"All you need to know about Sports Personality 2018:https://www.bbc.co.uk/sport/sports-personality/46510766"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Sports Personality of the Year: How to vote by phone:https://www.bbc.co.uk/sport/sports-personality/46383978"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Sports Personality of the Year winner: Geraint Thomas triumphs after Tour de France success:https://www.bbc.co.uk/sport/sports-personality/46566121"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"The golden age of streaming sports isn't perfect, but it's still damn good:https://mashable.com/article/sports-streaming-golden-age/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Good sports: 14 health, sports and fitness Christmas gifts:https://www.theguardian.com/lifeandstyle/2018/dec/12/good-sports-14-health-sports-and-fitness-christmas-gifts"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Disability: Trump\u2019s New Wall to Keep Out the Disabled:https://www.nytimes.com/2018/11/29/opinion/trumps-disability-public-charge.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"They Pretty Much Know Everything About You Before You Bet the Jets:https://www.nytimes.com/2018/11/28/nyregion/sports-betting-nj-security.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Ada Hegerberg Won a Top Soccer Prize. Then She Was Asked About Twerking.:https://www.nytimes.com/2018/12/03/sports/soccer/ada-hegerberg-ballon-dor.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Raheem Sterling comments 'a game changing moment' for sports journalism:https://www.bbc.co.uk/sport/av/46570288"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Sky Sports: EFL agrees new five-year television deal worth \u00a3595m with broadcaster.:https://www.bbc.co.uk/sport/football/46267320"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"England netball stars scoop two awards including team of the year:https://www.bbc.co.uk/sport/sports-personality/46551055"}]
+2c08687aba8b48648d9329dda0b5f90d: Received packet PING data None
+2c08687aba8b48648d9329dda0b5f90d: Sending packet PONG data None
+2c08687aba8b48648d9329dda0b5f90d: Received packet MESSAGE data 2["user_uttered",{"message":"search for moviepass","customData":{}}]
+received event "user_uttered" from 2c08687aba8b48648d9329dda0b5f90d [/]
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Here is the news on moviepass."}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"MoviePass announces new pricing plans for 2019:http://techcrunch.com/2018/12/06/moviepass-new-pricing/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"The Most Controversial Posts of 2018:https://lifehacker.com/the-most-controversial-posts-of-2018-1831098687"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"You Probably Don't Want Sinemia's New Debit Card:https://lifehacker.com/you-probably-dont-want-sinemias-new-debit-card-1830728397"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"MoviePass Has a Plan to Bring You Back: Complicated Pricing:https://gizmodo.com/moviepass-has-a-plan-to-bring-you-back-complicated-pri-1830917924"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Sinemia brings back physical debit cards for in-person, fee-free tickets:http://techcrunch.com/2018/11/29/sinemia-brings-back-physical-debit-cards-for-in-person-fee-free-tickets/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Sinemia brings back debit cards following complaints over fees:https://www.engadget.com/2018/11/29/sinemia-debit-cards-complaints-over-fees/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Class-action lawsuits and 'F' ratings from the Better Business Bureau: Customers should be wary of MoviePass and Sinemia:https://www.businessinsider.com/moviepass-and-sinemia-have-f-ratings-from-bbb-class-action-lawsuits-2018-11"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Tech Turkeys 2018: So much Facebook! But net neutrality too - CNET:https://www.cnet.com/pictures/tech-turkeys-2018-so-much-facebook-but-net-neutrality-too/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Original Content podcast: We sing the praises of \u2018The Ballad of Buster Scruggs\u2019:http://techcrunch.com/2018/12/10/original-content-buster-scruggs/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Facebook's Zuckerberg, Elon Musk and MoviePass top this year's list of Tech Turkeys - CNET:https://www.cnet.com/news/facebooks-zuckerberg-elon-musk-and-moviepass-top-this-years-list-of-tech-turkeys/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Facebook's Zuckerberg, Elon Musk and bitcoin: The biggest Tech Turkeys of 2018 - CNET:https://www.cnet.com/news/facebooks-zuckerberg-elon-musk-and-bitcoin-the-biggest-tech-turkeys-of-2018/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"The best entertainment innovations of 2018:https://www.popsci.com/best-entertainment-tech-2018"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"MoviePass introduces three new subscription tiers for 2019, hopes to break even on ticket sales:https://9to5mac.com/2018/12/06/moviepass-somehow-still-alive-new-plans-2019/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"'Fantastic Beasts 2' earns a weekend-winning $62 million, but it's the lowest domestic opening ever for a 'Harry Potter' film:https://www.businessinsider.com/fantastic-beasts-2-lowest-domestic-opening-ever-for-a-harry-potter-movie-2018-11"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"MoviePass Shares Trading at Just Over 1 Cent; Google+ Shuts Down Early and Facebook Files Controversial New Patents (60-Second Video):https://www.entrepreneur.com/video/324707"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"MoviePass Promises They\u2019ve Changed, Announces New Monthly Plans:https://www.slashfilm.com/new-moviepass-monthly-plans/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"2018\u2019s tech trends and tribulations in 14 charts:https://www.recode.net/2018/12/13/18106455/best-of-2018-data-charts-tech-end-year-list-amazon-facebook-juul-moviepass-elon-musk"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"MoviePass announces yet another new pricing structure:https://www.vox.com/culture/2018/12/6/18129250/moviepass-new-pricing-structure-lowe-variety"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Daily Podcast: What Is & IS NOT a Christmas Movie, Golden Globe Nominations, Chucky, Jump Street, Resident Evil, MoviePass, Die Hard:https://www.slashfilm.com/daily-podcast-what-is-is-not-a-christmas-movie-golden-globe-nominations-chucky-jump-street-resident-evil-moviepass-die-hard/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"MoviePass, Rattled by a Rough Year, Tries to Change Its Ways:https://www.nytimes.com/2018/12/05/business/media/moviepass-subscription-plan.html"}]
+2c08687aba8b48648d9329dda0b5f90d: Received packet PING data None
+2c08687aba8b48648d9329dda0b5f90d: Sending packet PONG data None
+2c08687aba8b48648d9329dda0b5f90d: Received packet PING data None
+2c08687aba8b48648d9329dda0b5f90d: Sending packet PONG data None
+2c08687aba8b48648d9329dda0b5f90d: Received packet MESSAGE data 2["user_uttered",{"message":"search for amc","customData":{}}]
+received event "user_uttered" from 2c08687aba8b48648d9329dda0b5f90d [/]
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Here is the news on amc."}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Amazon Prime members can watch 'Aquaman' a week early:https://www.engadget.com/2018/11/19/amazon-prime-aquaman-early-screening/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"The Walking Dead\u2019s midseason finale got the show back on track:https://www.theverge.com/2018/11/26/18111632/the-walking-dead-season-9-episode-8-evolution-recap"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Inside Dolby and Odeon's mission to revive a British cinematic icon:https://www.engadget.com/2018/11/30/dolby-odeon-movie-theater-leicester-square-cinema/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"'The Walking Dead's' Katelyn Nacon says Enid won't be happy Negan's free:https://www.thisisinsider.com/walking-dead-enid-reacts-to-negan-out-of-jail-2018-12"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"3 great TV shows to watch on Netflix this week:https://www.thisisinsider.com/great-tv-shows-to-watch-on-netflix-this-week-17-2018-12"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"What's on TV: 'Crazy Rich Asians,' 'Sick Note,' and 'MST3K':https://www.engadget.com/2018/11/19/whats-on-tv-crazy-rich-asians-sick-note-and-mst3k/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Alexander Skarsgard's new TV show \u2014 'The Little Drummer Girl' \u2014 is a stunning spy series, but starts at a glacial pace:https://www.thisisinsider.com/amc-little-drummer-girl-spy-series-tv-show-review-2018-11"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"'The Walking Dead' star says there was an extra scene of him cut on the show with a boyfriend:https://www.thisisinsider.com/walking-dead-cut-jesus-boyfriend-2018-11"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"'The Walking Dead's' Katelyn Nacon hints we'll finally get to see Carl's letter to Enid:https://www.thisisinsider.com/walking-dead-carl-letter-to-enid-2018-12"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"The Morning After: SpaceX turns BFR into a 'Starship':https://www.engadget.com/2018/11/20/the-morning-after-spacex-turns-bfr-into-a-starship/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"10 popular movie quotes you're probably misquoting:https://www.thisisinsider.com/movie-quotes-youre-getting-wrong-2018-11"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"'The Walking Dead' fan favorite Michael Cudlitz says he's down to return for a movie or short and he has an idea:https://www.thisisinsider.com/michael-cudlitz-would-do-walking-dead-movie-show-2018-11"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"'The Walking Dead' star says another actor almost lost their arm on the show years ago:https://www.thisisinsider.com/walking-dead-arm-chop-was-almost-another-character-2018-12"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"What's new on Hulu in December 2018:https://www.androidcentral.com/whats-new-hulu-december-2018"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"How Park Chan-wook Brought The Little Drummer Girl Into Color:https://www.theatlantic.com/entertainment/archive/2018/11/how-park-chan-wook-brought-the-little-drummer-girl-into-color/576265/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"'The Walking Dead' star says it's not his fault Negan escaped the prison cell: 'Father Gabriel slammed the f---ing gate shut':https://www.thisisinsider.com/walking-dead-father-gabriel-not-to-blame-negan-escape-2018-12"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Michael Cudlitz asked to direct an episode of 'The Walking Dead' years ago and it was starting to affect a friendship on the show:https://www.thisisinsider.com/michael-cudlitz-asked-years-ago-about-directing-walking-dead-episode-2018-11"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"'The Walking Dead's' Austin Amelio gives fans hope we'll see Dwight again on the show: 'He's alive':https://www.thisisinsider.com/walking-dead-where-is-dwight-2018-12"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"'They knew I was a bit unhappy': 'The Walking Dead' star says he was frustrated and bored with his role on the show:https://www.thisisinsider.com/walking-dead-tom-payne-frustrated-bored-with-jesus-role-2018-11"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"'The Walking Dead' showrunner says we'll learn more about the mystery 'X' on Michonne and Daryl's backs next year:https://www.thisisinsider.com/walking-dead-when-will-michonne-x-mystery-be-revealed-2018-11"}]
+2c08687aba8b48648d9329dda0b5f90d: Received packet PING data None
+2c08687aba8b48648d9329dda0b5f90d: Sending packet PONG data None
+2c08687aba8b48648d9329dda0b5f90d: Received packet MESSAGE data 2["user_uttered",{"message":"search for trump","customData":{}}]
+received event "user_uttered" from 2c08687aba8b48648d9329dda0b5f90d [/]
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Here is the news on trump."}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"The year of Trump, according to Trump:https://www.cnn.com/videos/politics/2018/12/13/donald-trump-2018-cillizza-year-in-review-orig-js.cnn"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"\u2018A Simple Private Transaction\u2019: Trump Lays Out a Defense in a Campaign-Finance Case:https://www.nytimes.com/2018/12/10/us/politics/trump-campaign-finance-crimes-defense.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Erin Burnett presses Trump official: Did Trump know about arrest?:https://www.cnn.com/videos/politics/2018/12/07/huawei-meng-wanzhou-peter-navarro-erin-burnett-china-ebof-vpx-new.cnn"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Rudy Giuliani, a Trump cybersecurity adviser, doesn\u2019t understand the internet:http://techcrunch.com/2018/12/04/rudy-giuliani-doesnt-understand-the-internet/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Trump\u2019s Limits on Legal Immigration Could Hit Businesses Hard:https://www.wired.com/story/trump-immigration-public-charge-rule/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Would Indicting Trump Be Constitutional?:https://www.nytimes.com/2018/12/12/opinion/mueller-indict-trump.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Cuomo to Conway: If you lie, I'll call you out:https://www.cnn.com/videos/politics/2018/12/14/kellyanne-conway-liar-hush-money-trump-cuomo-sot-cpt-vpx.cnn"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Don Jr. posts Trump atop Christmas tree:https://www.cnn.com/videos/politics/2018/12/05/trump-ornaments-jeanne-moos-pkg-ebof-vpx.cnn"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Trump Tops Tricky Dick:https://www.nytimes.com/2018/11/30/opinion/donald-trump-cohen-mueller-manafort.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"The Most Powerful Reject in the World:https://www.nytimes.com/2018/12/11/opinion/trump-ayers-chief-of-staff-reject.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Rebuffing C.I.A., Trump Says It Only Has \u2018Feelings\u2019 About Khashoggi Killing:https://www.nytimes.com/2018/11/22/us/politics/trump-saudi-thanksgiving.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"RIP Independent Space Force, 2018-2018:https://gizmodo.com/rip-independent-space-force-2018-2018-1830728483"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Trump\u2019s Book Club: A President Who Doesn\u2019t Read Promotes the Books That Promote Him:https://www.nytimes.com/2018/11/30/us/politics/trump-books.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Donald Trump Jr. pokes fun at dad's regift:https://www.cnn.com/videos/politics/2018/12/14/late-night-fallon-don-jr-regifter-es-vpx.cnn"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Trump's 'Smocking Gun' tweet gets mocked by people that know how to spell:https://mashable.com/article/donald-trump-smoking-gun-tweet-smocking-memes/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Trump Gets It All Wrong:https://www.nytimes.com/2018/12/05/opinion/trump-wrong-voter-fraud.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Ex-Fox News analyst slams Trump officials:https://www.cnn.com/videos/politics/2018/11/29/ralph-peters-cowards-not-listening-tapes-sot-ac360-vpx.cnn"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"The Robots Have Descended on Trump Country:https://www.nytimes.com/2018/12/13/opinion/robots-trump-country-jobs.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Ivanka: I disagree with father privately:https://www.cnn.com/videos/politics/2018/11/28/ivanka-trump-abc-interview-orig-vstop-bdk.cnn"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Analysis: Tillerson exposes Trump weakness:https://www.cnn.com/2018/12/07/politics/donald-trump-rex-tillerson/index.html"}]
+2c08687aba8b48648d9329dda0b5f90d: Received packet PING data None
+2c08687aba8b48648d9329dda0b5f90d: Sending packet PONG data None
+2c08687aba8b48648d9329dda0b5f90d: Received packet MESSAGE data 2["user_uttered",{"message":"fashion news","customData":{}}]
+received event "user_uttered" from 2c08687aba8b48648d9329dda0b5f90d [/]
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"50 Years Later, We Still Don't Grasp the Mother of All Demos:https://www.wired.com/story/50-years-later-we-still-dont-grasp-the-mother-of-all-demos/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Five years and one pivot later, Trueface emerges with a promise for better facial recognition tech:http://techcrunch.com/2018/11/20/five-years-and-one-pivot-later-trueface-emerges-with-a-promise-for-better-facial-recognition-tech/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"The highest flying consumer tech stocks have lost $1 trillion:http://techcrunch.com/2018/11/20/the-highest-flying-consumer-tech-stocks-have-lost-1-trillion/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Walmart is testing its own, in-house visual search technology on Hayneedle:http://techcrunch.com/2018/12/18/walmart-is-testing-its-own-in-house-visual-search-technology-on-hayneedle/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Tom Cruise stars in impassioned PSA against motion smoothing:https://www.theverge.com/2018/12/4/18126306/tom-cruise-psa-motion-smoothing-christopher-mcquarrie"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"How to See What Twitter Thinks Your Interests Are:https://lifehacker.com/how-to-see-what-twitter-thinks-your-interests-are-1830747631"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Motorola\u2019s 5G Moto Mod speed test was massively misleading:https://www.theverge.com/2018/12/5/18127573/motorola-verizon-5g-speed-test-misleading-maui-snapdragon-tech-summit"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Nine Charged in Plot to Steal Samsung's Most-Hyped Phone Technology:https://gizmodo.com/nine-charged-in-plot-to-steal-samsungs-most-hyped-phone-1830739130"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Canada and France will explore AI ethics with an international panel:https://www.engadget.com/2018/12/07/canada-france-ai-ethics/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Critic\u2019s Pick: \u2018Christmas Spectacular\u2019 Review: Where Rockettes and Drones Dazzle:https://www.nytimes.com/2018/11/19/theater/christmas-spectacular-review-rockettes-radio-city.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"On Technology: What Happens When Facebook Goes the Way of Myspace?:https://www.nytimes.com/2018/12/12/magazine/what-happens-when-facebook-goes-the-way-of-myspace.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Their Art Raised Questions About Technology. Chinese Censors Had Their Own Answer.:https://www.nytimes.com/2018/12/14/arts/china-art-censorship.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"The FCC\u2019s plan to fight spam texts could give phone companies more power over messaging:https://www.theverge.com/2018/11/20/18105223/fcc-robocalls-robotexts-proposals-information-service"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Kids and tech: Can parents make this a healthy relationship?:https://mashable.com/ad/video/kids-parenting-tech/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Blockchain Is Especially at Risk for Quantum Attacks, Scientists Warn:https://gizmodo.com/blockchain-is-especially-at-risk-for-quantum-attacks-s-1830567357"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Looking For a Smartwatch or Fitness Tracker? These Are the Best You Can Buy:https://gizmodo.com/looking-for-a-smartwatch-or-fitness-tracker-these-are-1830476513"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Peeling Back the Paint to Discover Bruegel\u2019s Secrets:https://www.nytimes.com/2018/11/23/arts/design/bruegel-kunsthistorisches-museum-technology-layers.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Qualcomm announces the Snapdragon 8cx, an \u2018extreme\u2019 processor for Windows laptops:https://www.theverge.com/2018/12/6/18128630/qualcomm-snapdragon-8cx-announcement-technology-summit-maui"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Riding in Waymo One, the Google spinoff\u2019s first self-driving taxi service:https://www.theverge.com/2018/12/5/18126103/waymo-one-self-driving-taxi-service-ride-safety-alphabet-cost-app"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"The best VR gifts:https://www.engadget.com/2018/11/30/the-best-vr-gifts/"}]
+2c08687aba8b48648d9329dda0b5f90d: Received packet PING data None
+2c08687aba8b48648d9329dda0b5f90d: Sending packet PONG data None
+2c08687aba8b48648d9329dda0b5f90d: Received packet MESSAGE data 2["user_uttered",{"message":"search for food","customData":{}}]
+received event "user_uttered" from 2c08687aba8b48648d9329dda0b5f90d [/]
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Here is the news on trump."}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"The year of Trump, according to Trump:https://www.cnn.com/videos/politics/2018/12/13/donald-trump-2018-cillizza-year-in-review-orig-js.cnn"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"\u2018A Simple Private Transaction\u2019: Trump Lays Out a Defense in a Campaign-Finance Case:https://www.nytimes.com/2018/12/10/us/politics/trump-campaign-finance-crimes-defense.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Erin Burnett presses Trump official: Did Trump know about arrest?:https://www.cnn.com/videos/politics/2018/12/07/huawei-meng-wanzhou-peter-navarro-erin-burnett-china-ebof-vpx-new.cnn"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Rudy Giuliani, a Trump cybersecurity adviser, doesn\u2019t understand the internet:http://techcrunch.com/2018/12/04/rudy-giuliani-doesnt-understand-the-internet/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Trump\u2019s Limits on Legal Immigration Could Hit Businesses Hard:https://www.wired.com/story/trump-immigration-public-charge-rule/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Would Indicting Trump Be Constitutional?:https://www.nytimes.com/2018/12/12/opinion/mueller-indict-trump.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Cuomo to Conway: If you lie, I'll call you out:https://www.cnn.com/videos/politics/2018/12/14/kellyanne-conway-liar-hush-money-trump-cuomo-sot-cpt-vpx.cnn"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Don Jr. posts Trump atop Christmas tree:https://www.cnn.com/videos/politics/2018/12/05/trump-ornaments-jeanne-moos-pkg-ebof-vpx.cnn"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Trump Tops Tricky Dick:https://www.nytimes.com/2018/11/30/opinion/donald-trump-cohen-mueller-manafort.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"The Most Powerful Reject in the World:https://www.nytimes.com/2018/12/11/opinion/trump-ayers-chief-of-staff-reject.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Rebuffing C.I.A., Trump Says It Only Has \u2018Feelings\u2019 About Khashoggi Killing:https://www.nytimes.com/2018/11/22/us/politics/trump-saudi-thanksgiving.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"RIP Independent Space Force, 2018-2018:https://gizmodo.com/rip-independent-space-force-2018-2018-1830728483"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Trump\u2019s Book Club: A President Who Doesn\u2019t Read Promotes the Books That Promote Him:https://www.nytimes.com/2018/11/30/us/politics/trump-books.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Donald Trump Jr. pokes fun at dad's regift:https://www.cnn.com/videos/politics/2018/12/14/late-night-fallon-don-jr-regifter-es-vpx.cnn"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Trump's 'Smocking Gun' tweet gets mocked by people that know how to spell:https://mashable.com/article/donald-trump-smoking-gun-tweet-smocking-memes/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Trump Gets It All Wrong:https://www.nytimes.com/2018/12/05/opinion/trump-wrong-voter-fraud.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Ex-Fox News analyst slams Trump officials:https://www.cnn.com/videos/politics/2018/11/29/ralph-peters-cowards-not-listening-tapes-sot-ac360-vpx.cnn"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"The Robots Have Descended on Trump Country:https://www.nytimes.com/2018/12/13/opinion/robots-trump-country-jobs.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Ivanka: I disagree with father privately:https://www.cnn.com/videos/politics/2018/11/28/ivanka-trump-abc-interview-orig-vstop-bdk.cnn"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Analysis: Tillerson exposes Trump weakness:https://www.cnn.com/2018/12/07/politics/donald-trump-rex-tillerson/index.html"}]
+2c08687aba8b48648d9329dda0b5f90d: Received packet MESSAGE data 2["user_uttered",{"message":"how are you","customData":{}}]
+received event "user_uttered" from 2c08687aba8b48648d9329dda0b5f90d [/]
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Talk to you later!"}]
+2c08687aba8b48648d9329dda0b5f90d: Received packet PING data None
+2c08687aba8b48648d9329dda0b5f90d: Sending packet PONG data None
+2c08687aba8b48648d9329dda0b5f90d: Received packet MESSAGE data 2["user_uttered",{"message":"tell me a jole","customData":{}}]
+received event "user_uttered" from 2c08687aba8b48648d9329dda0b5f90d [/]
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Talk to you later!"}]
+2c08687aba8b48648d9329dda0b5f90d: Received packet MESSAGE data 2["user_uttered",{"message":"hi","customData":{}}]
+received event "user_uttered" from 2c08687aba8b48648d9329dda0b5f90d [/]
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+2c08687aba8b48648d9329dda0b5f90d: Received packet MESSAGE data 2["user_uttered",{"message":"tell me a joke","customData":{}}]
+received event "user_uttered" from 2c08687aba8b48648d9329dda0b5f90d [/]
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"One time when Chuck Norris got wasted, he found a parked semi-trailer. He pissed in the gas-tank - wich of course was empty - and he filled it just for fun. The semi-trailer is now better known as Optimus Prime."}]
+2c08687aba8b48648d9329dda0b5f90d: Received packet PING data None
+2c08687aba8b48648d9329dda0b5f90d: Sending packet PONG data None
+2c08687aba8b48648d9329dda0b5f90d: Received packet MESSAGE data 2["user_uttered",{"message":"technology news","customData":{}}]
+received event "user_uttered" from 2c08687aba8b48648d9329dda0b5f90d [/]
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"50 Years Later, We Still Don't Grasp the Mother of All Demos:https://www.wired.com/story/50-years-later-we-still-dont-grasp-the-mother-of-all-demos/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Five years and one pivot later, Trueface emerges with a promise for better facial recognition tech:http://techcrunch.com/2018/11/20/five-years-and-one-pivot-later-trueface-emerges-with-a-promise-for-better-facial-recognition-tech/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"The highest flying consumer tech stocks have lost $1 trillion:http://techcrunch.com/2018/11/20/the-highest-flying-consumer-tech-stocks-have-lost-1-trillion/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Walmart is testing its own, in-house visual search technology on Hayneedle:http://techcrunch.com/2018/12/18/walmart-is-testing-its-own-in-house-visual-search-technology-on-hayneedle/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Tom Cruise stars in impassioned PSA against motion smoothing:https://www.theverge.com/2018/12/4/18126306/tom-cruise-psa-motion-smoothing-christopher-mcquarrie"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"How to See What Twitter Thinks Your Interests Are:https://lifehacker.com/how-to-see-what-twitter-thinks-your-interests-are-1830747631"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Motorola\u2019s 5G Moto Mod speed test was massively misleading:https://www.theverge.com/2018/12/5/18127573/motorola-verizon-5g-speed-test-misleading-maui-snapdragon-tech-summit"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Nine Charged in Plot to Steal Samsung's Most-Hyped Phone Technology:https://gizmodo.com/nine-charged-in-plot-to-steal-samsungs-most-hyped-phone-1830739130"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Canada and France will explore AI ethics with an international panel:https://www.engadget.com/2018/12/07/canada-france-ai-ethics/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Critic\u2019s Pick: \u2018Christmas Spectacular\u2019 Review: Where Rockettes and Drones Dazzle:https://www.nytimes.com/2018/11/19/theater/christmas-spectacular-review-rockettes-radio-city.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"On Technology: What Happens When Facebook Goes the Way of Myspace?:https://www.nytimes.com/2018/12/12/magazine/what-happens-when-facebook-goes-the-way-of-myspace.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Their Art Raised Questions About Technology. Chinese Censors Had Their Own Answer.:https://www.nytimes.com/2018/12/14/arts/china-art-censorship.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"The FCC\u2019s plan to fight spam texts could give phone companies more power over messaging:https://www.theverge.com/2018/11/20/18105223/fcc-robocalls-robotexts-proposals-information-service"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Kids and tech: Can parents make this a healthy relationship?:https://mashable.com/ad/video/kids-parenting-tech/"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Blockchain Is Especially at Risk for Quantum Attacks, Scientists Warn:https://gizmodo.com/blockchain-is-especially-at-risk-for-quantum-attacks-s-1830567357"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Looking For a Smartwatch or Fitness Tracker? These Are the Best You Can Buy:https://gizmodo.com/looking-for-a-smartwatch-or-fitness-tracker-these-are-1830476513"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Peeling Back the Paint to Discover Bruegel\u2019s Secrets:https://www.nytimes.com/2018/11/23/arts/design/bruegel-kunsthistorisches-museum-technology-layers.html"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Qualcomm announces the Snapdragon 8cx, an \u2018extreme\u2019 processor for Windows laptops:https://www.theverge.com/2018/12/6/18128630/qualcomm-snapdragon-8cx-announcement-technology-summit-maui"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"Riding in Waymo One, the Google spinoff\u2019s first self-driving taxi service:https://www.theverge.com/2018/12/5/18126103/waymo-one-self-driving-taxi-service-ride-safety-alphabet-cost-app"}]
+emitting event "bot_uttered" to 2c08687aba8b48648d9329dda0b5f90d [/]
+2c08687aba8b48648d9329dda0b5f90d: Sending packet MESSAGE data 2["bot_uttered",{"text":"The best VR gifts:https://www.engadget.com/2018/11/30/the-best-vr-gifts/"}]
+245e4127f742404bab7de9ab92e2c39d: Sending packet OPEN data {'sid': '245e4127f742404bab7de9ab92e2c39d', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+245e4127f742404bab7de9ab92e2c39d: Sending packet MESSAGE data 0
+245e4127f742404bab7de9ab92e2c39d: Received packet PING data None
+245e4127f742404bab7de9ab92e2c39d: Sending packet PONG data None
+2c08687aba8b48648d9329dda0b5f90d: Client is gone, closing socket
+245e4127f742404bab7de9ab92e2c39d: Received packet PING data None
+245e4127f742404bab7de9ab92e2c39d: Sending packet PONG data None
+245e4127f742404bab7de9ab92e2c39d: Received packet PING data None
+245e4127f742404bab7de9ab92e2c39d: Sending packet PONG data None
+245e4127f742404bab7de9ab92e2c39d: Received packet PING data None
+245e4127f742404bab7de9ab92e2c39d: Sending packet PONG data None
+245e4127f742404bab7de9ab92e2c39d: Received packet PING data None
+245e4127f742404bab7de9ab92e2c39d: Sending packet PONG data None
+245e4127f742404bab7de9ab92e2c39d: Received packet PING data None
+245e4127f742404bab7de9ab92e2c39d: Sending packet PONG data None
+245e4127f742404bab7de9ab92e2c39d: Received packet PING data None
+245e4127f742404bab7de9ab92e2c39d: Sending packet PONG data None
+245e4127f742404bab7de9ab92e2c39d: Received packet PING data None
+245e4127f742404bab7de9ab92e2c39d: Sending packet PONG data None
+245e4127f742404bab7de9ab92e2c39d: Received packet PING data None
+245e4127f742404bab7de9ab92e2c39d: Sending packet PONG data None
+245e4127f742404bab7de9ab92e2c39d: Received packet PING data None
+245e4127f742404bab7de9ab92e2c39d: Sending packet PONG data None
+245e4127f742404bab7de9ab92e2c39d: Received packet PING data None
+245e4127f742404bab7de9ab92e2c39d: Sending packet PONG data None
+245e4127f742404bab7de9ab92e2c39d: Received packet PING data None
+245e4127f742404bab7de9ab92e2c39d: Sending packet PONG data None
+245e4127f742404bab7de9ab92e2c39d: Received packet PING data None
+245e4127f742404bab7de9ab92e2c39d: Sending packet PONG data None
+245e4127f742404bab7de9ab92e2c39d: Received packet PING data None
+245e4127f742404bab7de9ab92e2c39d: Sending packet PONG data None
+245e4127f742404bab7de9ab92e2c39d: Received packet PING data None
+245e4127f742404bab7de9ab92e2c39d: Sending packet PONG data None
+245e4127f742404bab7de9ab92e2c39d: Received packet PING data None
+245e4127f742404bab7de9ab92e2c39d: Sending packet PONG data None
+55022c53732a40c4a6ffc78018cf0702: Sending packet OPEN data {'sid': '55022c53732a40c4a6ffc78018cf0702', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+55022c53732a40c4a6ffc78018cf0702: Sending packet MESSAGE data 0
+55022c53732a40c4a6ffc78018cf0702: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from 55022c53732a40c4a6ffc78018cf0702 [/]
+emitting event "bot_uttered" to 55022c53732a40c4a6ffc78018cf0702 [/]
+55022c53732a40c4a6ffc78018cf0702: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Server initialized for gevent.
+Rasa Core server is up and running on http://localhost:5002
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet OPEN data {'sid': '716f1d2c8f62438b9804bbdd518a06b9', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 0
+716f1d2c8f62438b9804bbdd518a06b9: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from 716f1d2c8f62438b9804bbdd518a06b9 [/]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+716f1d2c8f62438b9804bbdd518a06b9: Received packet PING data None
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet PONG data None
+716f1d2c8f62438b9804bbdd518a06b9: Received packet MESSAGE data 2["user_uttered",{"message":"my name is pradeep","customData":{}}]
+received event "user_uttered" from 716f1d2c8f62438b9804bbdd518a06b9 [/]
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Nice to you meet you pradeep. How can I help?"}]
+716f1d2c8f62438b9804bbdd518a06b9: Received packet PING data None
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet PONG data None
+716f1d2c8f62438b9804bbdd518a06b9: Received packet MESSAGE data 2["user_uttered",{"message":"show me technology news","customData":{}}]
+received event "user_uttered" from 716f1d2c8f62438b9804bbdd518a06b9 [/]
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"50 Years Later, We Still Don't Grasp the Mother of All Demos:https://www.wired.com/story/50-years-later-we-still-dont-grasp-the-mother-of-all-demos/"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Super-Fast Airport Scanners Are Coming\u2014Eventually:https://www.wired.com/story/super-fast-airport-scanners/"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Walmart is testing its own, in-house visual search technology on Hayneedle:http://techcrunch.com/2018/12/18/walmart-is-testing-its-own-in-house-visual-search-technology-on-hayneedle/"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"In 2018, Movies Finally Got the Internet Right\u2014Well, Mostly:https://www.wired.com/story/2018-movies-finally-understood-the-internet/"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Tom Cruise stars in impassioned PSA against motion smoothing:https://www.theverge.com/2018/12/4/18126306/tom-cruise-psa-motion-smoothing-christopher-mcquarrie"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Ford's noise-canceling kennel prototype is pretty doggone cool \u2014 Future Blink:https://mashable.com/video/ford-noise-canceling-dog-kennel/"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"How to See What Twitter Thinks Your Interests Are:https://lifehacker.com/how-to-see-what-twitter-thinks-your-interests-are-1830747631"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Motorola\u2019s 5G Moto Mod speed test was massively misleading:https://www.theverge.com/2018/12/5/18127573/motorola-verizon-5g-speed-test-misleading-maui-snapdragon-tech-summit"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Nine Charged in Plot to Steal Samsung's Most-Hyped Phone Technology:https://gizmodo.com/nine-charged-in-plot-to-steal-samsungs-most-hyped-phone-1830739130"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Canada and France will explore AI ethics with an international panel:https://www.engadget.com/2018/12/07/canada-france-ai-ethics/"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Could a Drone Disruption Like Gatwick\u2019s Happen at a U.S. Airport?:https://www.nytimes.com/2018/12/20/business/drones-airports-gatwick.html"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"On Technology: What Happens When Facebook Goes the Way of Myspace?:https://www.nytimes.com/2018/12/12/magazine/what-happens-when-facebook-goes-the-way-of-myspace.html"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Their Art Raised Questions About Technology. Chinese Censors Had Their Own Answer.:https://www.nytimes.com/2018/12/14/arts/china-art-censorship.html"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Kids and tech: Can parents make this a healthy relationship?:https://mashable.com/ad/video/kids-parenting-tech/"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"As Markets Tumble, Tech Stocks Hit a Rare and Ominous Milestone:https://www.nytimes.com/2018/12/21/business/nasdaq-stocks-bear-market.html"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Qualcomm announces the Snapdragon 8cx, an \u2018extreme\u2019 processor for Windows laptops:https://www.theverge.com/2018/12/6/18128630/qualcomm-snapdragon-8cx-announcement-technology-summit-maui"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Riding in Waymo One, the Google spinoff\u2019s first self-driving taxi service:https://www.theverge.com/2018/12/5/18126103/waymo-one-self-driving-taxi-service-ride-safety-alphabet-cost-app"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Peeling Back the Paint to Discover Bruegel\u2019s Secrets:https://www.nytimes.com/2018/11/23/arts/design/bruegel-kunsthistorisches-museum-technology-layers.html"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"The best VR gifts:https://www.engadget.com/2018/11/30/the-best-vr-gifts/"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Coinbase leads $12.75M investment in project to create \u2018digital security offerings\u2019:http://techcrunch.com/2018/11/26/securitize-raises-12-75-million-digital-security-offering/"}]
+716f1d2c8f62438b9804bbdd518a06b9: Received packet PING data None
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet PONG data None
+716f1d2c8f62438b9804bbdd518a06b9: Received packet PING data None
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet PONG data None
+716f1d2c8f62438b9804bbdd518a06b9: Received packet MESSAGE data 2["user_uttered",{"message":"search for bitcoin","customData":{}}]
+received event "user_uttered" from 716f1d2c8f62438b9804bbdd518a06b9 [/]
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Here is the news on bitcoin."}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Bitcoin scammers send bomb threats across US, causing evacuations:https://www.theverge.com/2018/12/13/18139724/bitcoin-bomb-threat-scam-email-us-police-department-investigation-evacuations"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"We Answered the Most Googled 'How To' Questions of 2018:https://lifehacker.com/we-answered-the-most-googled-how-to-questions-of-2018-1831025985"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Coinbase Bundle performance tracker reveals the sad state of the crypto market:https://mashable.com/article/coinbase-bundle-performance-ouch/"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Ohio becomes the first state to accept bitcoin for tax payments:http://techcrunch.com/2018/11/25/ohio-becomes-the-first-state-to-accept-bitcoin-for-tax-payments/"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Scammers are sending bomb scares to nab BTC:http://techcrunch.com/2018/12/13/scammers-are-sending-bomb-scares-to-nab-btc/"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Ohio Is Set to Become the First State to Let Businesses Pay Taxes With Bitcoin:https://gizmodo.com/ohio-is-set-to-become-the-first-state-to-let-businesses-1830644836"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Facebook reportedly building cryptocurrency for WhatsApp money transfers:https://www.theverge.com/2018/12/21/18151469/facebook-cryptocurrency-whatsapp-transfers-cash-money-stablecoin"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Bitcoin, and Cryptocurrency in General, Had a Terrible November:https://gizmodo.com/bitcoin-and-cryptocurrency-in-general-had-a-terrible-1830795708"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Layer1 wants to thrive in the age of the crypto crash:http://techcrunch.com/2018/12/21/layer1-fundraise/"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Google\u2019s year in search 2018: the World Cup, Fortnite GIFs and Bitcoin:http://techcrunch.com/2018/12/12/googles-year-in-search-2018-the-world-cup-fortnite-gifs-and-bitcoin/"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Cryptocurrency exchange Gemini launches mobile trading app:https://mashable.com/article/gemini-mobile-app/"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"The crusade against open source abuse:http://techcrunch.com/2018/11/29/the-crusade-against-open-source-abuse/"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"What You Need to Know About HTC's Exodus 1, the 'Blockchain Smartphone':https://lifehacker.com/what-you-need-to-know-about-htcs-exodus-1-the-blockcha-1830836727"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Dozens of Bomb Threats Reported Across America in Apparent Bitcoin Ransom Scam:https://gizmodo.com/dozens-of-bomb-threats-reported-across-america-in-appar-1831080547"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Two Iranian men charged with the ransomware attack that took down Atlanta:https://www.theverge.com/2018/11/28/18116213/iranian-hackers-samsam-ransomware-indictment-bitcoin-sanctions-wallet-atlanta"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Move over HODL, it's time to BUIDL:https://mashable.com/article/buidl-hodl/"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Bitcoin tumbles to its lowest level since September 2017:https://www.businessinsider.com/bitcoin-price-tumbles-crypto-bloodbath-continues-2018-11"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Bitcoin Options Purchased for $1 Million Will Soon Be Worthless:https://news.slashdot.org/story/18/12/08/183253/bitcoin-options-purchased-for-1-million-will-soon-be-worthless"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Bitcoin falls over 7 percent, heads towards one-year low:https://www.reuters.com/article/us-crypto-currencies-idUSKCN1NZ1AS"}]
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Bomb Threats Sent to Schools and Businesses Across U.S.:https://www.nytimes.com/2018/12/13/us/bomb-threats-schools-businesses.html"}]
+716f1d2c8f62438b9804bbdd518a06b9: Received packet PING data None
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet PONG data None
+716f1d2c8f62438b9804bbdd518a06b9: Received packet PING data None
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet PONG data None
+716f1d2c8f62438b9804bbdd518a06b9: Received packet MESSAGE data 2["user_uttered",{"message":"tell me a joke","customData":{}}]
+received event "user_uttered" from 716f1d2c8f62438b9804bbdd518a06b9 [/]
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"we dont live in a ever expanding universe like scientist's say. we just live in a universe that is trying to get away from Chuck Norris"}]
+716f1d2c8f62438b9804bbdd518a06b9: Received packet PING data None
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet PONG data None
+716f1d2c8f62438b9804bbdd518a06b9: Received packet MESSAGE data 2["user_uttered",{"message":"bye","customData":{}}]
+received event "user_uttered" from 716f1d2c8f62438b9804bbdd518a06b9 [/]
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 716f1d2c8f62438b9804bbdd518a06b9 [/]
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet MESSAGE data 2["bot_uttered",{"text":"Talk to you later!"}]
+716f1d2c8f62438b9804bbdd518a06b9: Received packet PING data None
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet PONG data None
+716f1d2c8f62438b9804bbdd518a06b9: Received packet PING data None
+716f1d2c8f62438b9804bbdd518a06b9: Sending packet PONG data None
+716f1d2c8f62438b9804bbdd518a06b9: Client is gone, closing socket
+95e1332565904b4092fd931f6c2c5f69: Sending packet OPEN data {'sid': '95e1332565904b4092fd931f6c2c5f69', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+95e1332565904b4092fd931f6c2c5f69: Sending packet MESSAGE data 0
+6a53987974924932ad4920f3e53f8655: Sending packet OPEN data {'sid': '6a53987974924932ad4920f3e53f8655', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+6a53987974924932ad4920f3e53f8655: Sending packet MESSAGE data 0
+6a53987974924932ad4920f3e53f8655: Received packet PING data None
+6a53987974924932ad4920f3e53f8655: Sending packet PONG data None
+95e1332565904b4092fd931f6c2c5f69: Client is gone, closing socket
+c6d001c77fe84f3ca4eb3e96e0d86715: Sending packet OPEN data {'sid': 'c6d001c77fe84f3ca4eb3e96e0d86715', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+c6d001c77fe84f3ca4eb3e96e0d86715: Sending packet MESSAGE data 0
+1a1c1586fbeb40a5b4ab2f3e3bfa3d9f: Sending packet OPEN data {'sid': '1a1c1586fbeb40a5b4ab2f3e3bfa3d9f', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+1a1c1586fbeb40a5b4ab2f3e3bfa3d9f: Sending packet MESSAGE data 0
+84faa60f12714186bdf481d640e01274: Sending packet OPEN data {'sid': '84faa60f12714186bdf481d640e01274', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+84faa60f12714186bdf481d640e01274: Sending packet MESSAGE data 0
+6a53987974924932ad4920f3e53f8655: Client is gone, closing socket
+84faa60f12714186bdf481d640e01274: Received packet PING data None
+84faa60f12714186bdf481d640e01274: Sending packet PONG data None
+c6d001c77fe84f3ca4eb3e96e0d86715: Client is gone, closing socket
+1a1c1586fbeb40a5b4ab2f3e3bfa3d9f: Client is gone, closing socket
+84faa60f12714186bdf481d640e01274: Received packet PING data None
+84faa60f12714186bdf481d640e01274: Sending packet PONG data None
+19c0b563dfb34412aedf8fa0bb07d5d1: Sending packet OPEN data {'sid': '19c0b563dfb34412aedf8fa0bb07d5d1', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+19c0b563dfb34412aedf8fa0bb07d5d1: Sending packet MESSAGE data 0
+84faa60f12714186bdf481d640e01274: Received packet PING data None
+84faa60f12714186bdf481d640e01274: Sending packet PONG data None
+84faa60f12714186bdf481d640e01274: Received packet PING data None
+84faa60f12714186bdf481d640e01274: Sending packet PONG data None
+19c0b563dfb34412aedf8fa0bb07d5d1: Client is gone, closing socket
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Server initialized for gevent.
+Rasa Core server is up and running on http://localhost:5002
+bead168e0b254740aadb5abe02419b74: Sending packet OPEN data {'sid': 'bead168e0b254740aadb5abe02419b74', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+bead168e0b254740aadb5abe02419b74: Sending packet MESSAGE data 0
+bead168e0b254740aadb5abe02419b74: Received packet PING data None
+bead168e0b254740aadb5abe02419b74: Sending packet PONG data None
+bead168e0b254740aadb5abe02419b74: Received packet PING data None
+bead168e0b254740aadb5abe02419b74: Sending packet PONG data None
+bead168e0b254740aadb5abe02419b74: Received packet PING data None
+bead168e0b254740aadb5abe02419b74: Sending packet PONG data None
+bead168e0b254740aadb5abe02419b74: Received packet PING data None
+bead168e0b254740aadb5abe02419b74: Sending packet PONG data None
+bead168e0b254740aadb5abe02419b74: Received packet PING data None
+bead168e0b254740aadb5abe02419b74: Sending packet PONG data None
+bead168e0b254740aadb5abe02419b74: Received packet PING data None
+bead168e0b254740aadb5abe02419b74: Sending packet PONG data None
+bead168e0b254740aadb5abe02419b74: Received packet PING data None
+bead168e0b254740aadb5abe02419b74: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet OPEN data {'sid': '8f2638dbf69445d2a0efab9666a595a0', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+8f2638dbf69445d2a0efab9666a595a0: Sending packet MESSAGE data 0
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+bead168e0b254740aadb5abe02419b74: Client is gone, closing socket
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Received packet PING data None
+8f2638dbf69445d2a0efab9666a595a0: Sending packet PONG data None
+95db7583ceda439bbc3a9d0fbb4e28bb: Sending packet OPEN data {'sid': '95db7583ceda439bbc3a9d0fbb4e28bb', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+95db7583ceda439bbc3a9d0fbb4e28bb: Sending packet MESSAGE data 0
+95db7583ceda439bbc3a9d0fbb4e28bb: Received packet PING data None
+95db7583ceda439bbc3a9d0fbb4e28bb: Sending packet PONG data None
+8f2638dbf69445d2a0efab9666a595a0: Client is gone, closing socket
+43c9b590643647eab65eec5ecab7dc84: Sending packet OPEN data {'sid': '43c9b590643647eab65eec5ecab7dc84', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+43c9b590643647eab65eec5ecab7dc84: Sending packet MESSAGE data 0
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+95db7583ceda439bbc3a9d0fbb4e28bb: Client is gone, closing socket
+95db7583ceda439bbc3a9d0fbb4e28bb: Client is gone, closing socket
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+43c9b590643647eab65eec5ecab7dc84: Received packet PING data None
+43c9b590643647eab65eec5ecab7dc84: Sending packet PONG data None
+d09ae6a85e134a0b8b9f7844cd4df582: Sending packet OPEN data {'sid': 'd09ae6a85e134a0b8b9f7844cd4df582', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+d09ae6a85e134a0b8b9f7844cd4df582: Sending packet MESSAGE data 0
+17feab96e02b47ac8dd6a84bcd541a2b: Sending packet OPEN data {'sid': '17feab96e02b47ac8dd6a84bcd541a2b', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+17feab96e02b47ac8dd6a84bcd541a2b: Sending packet MESSAGE data 0
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet OPEN data {'sid': '87f5556ae2ab4886b7817fcf97ab4e45', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet MESSAGE data 0
+43c9b590643647eab65eec5ecab7dc84: Client is gone, closing socket
+d09ae6a85e134a0b8b9f7844cd4df582: Client is gone, closing socket
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+17feab96e02b47ac8dd6a84bcd541a2b: Client is gone, closing socket
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+87f5556ae2ab4886b7817fcf97ab4e45: Received packet PING data None
+87f5556ae2ab4886b7817fcf97ab4e45: Sending packet PONG data None
+1d4bf49a03144f158adcc27ee820ad2a: Sending packet OPEN data {'sid': '1d4bf49a03144f158adcc27ee820ad2a', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+1d4bf49a03144f158adcc27ee820ad2a: Sending packet MESSAGE data 0
+0531b67f570f4632a1e0d9a7dfe99f3f: Sending packet OPEN data {'sid': '0531b67f570f4632a1e0d9a7dfe99f3f', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+0531b67f570f4632a1e0d9a7dfe99f3f: Sending packet MESSAGE data 0
+07e32c0d419e4961bba1997ca2ddef3e: Sending packet OPEN data {'sid': '07e32c0d419e4961bba1997ca2ddef3e', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+07e32c0d419e4961bba1997ca2ddef3e: Sending packet MESSAGE data 0
+3b89164a7bfd4c0ab7a3ebd1dbe33ba0: Sending packet OPEN data {'sid': '3b89164a7bfd4c0ab7a3ebd1dbe33ba0', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+3b89164a7bfd4c0ab7a3ebd1dbe33ba0: Sending packet MESSAGE data 0
+04dfa2513e524c5d8635d1e9f66dffe1: Sending packet OPEN data {'sid': '04dfa2513e524c5d8635d1e9f66dffe1', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+04dfa2513e524c5d8635d1e9f66dffe1: Sending packet MESSAGE data 0
+4ae818976dba4150acf1a408ab312d9b: Sending packet OPEN data {'sid': '4ae818976dba4150acf1a408ab312d9b', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 0
+87f5556ae2ab4886b7817fcf97ab4e45: Client is gone, closing socket
+1d4bf49a03144f158adcc27ee820ad2a: Client is gone, closing socket
+0531b67f570f4632a1e0d9a7dfe99f3f: Client is gone, closing socket
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+07e32c0d419e4961bba1997ca2ddef3e: Client is gone, closing socket
+3b89164a7bfd4c0ab7a3ebd1dbe33ba0: Client is gone, closing socket
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+04dfa2513e524c5d8635d1e9f66dffe1: Client is gone, closing socket
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet MESSAGE data 2["user_uttered",{"message":"/greet","customData":{}}]
+received event "user_uttered" from 4ae818976dba4150acf1a408ab312d9b [/]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Hey there! Tell me your name."}]
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet MESSAGE data 2["user_uttered",{"message":"My name is John","customData":{}}]
+received event "user_uttered" from 4ae818976dba4150acf1a408ab312d9b [/]
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Nice to you meet you john. How can I help?"}]
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet MESSAGE data 2["user_uttered",{"message":"show me technology news","customData":{}}]
+received event "user_uttered" from 4ae818976dba4150acf1a408ab312d9b [/]
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"50 Years Later, We Still Don't Grasp the Mother of All Demos:https://www.wired.com/story/50-years-later-we-still-dont-grasp-the-mother-of-all-demos/"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"New technology can make clouds drop rain:https://www.cnn.com/videos/business/2018/12/22/weather-modification-making-rain-crane-pkg-vpx.cnn"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Super-Fast Airport Scanners Are Coming\u2014Eventually:https://www.wired.com/story/super-fast-airport-scanners/"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Walmart is testing its own, in-house visual search technology on Hayneedle:http://techcrunch.com/2018/12/18/walmart-is-testing-its-own-in-house-visual-search-technology-on-hayneedle/"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"In 2018, Movies Finally Got the Internet Right\u2014Well, Mostly:https://www.wired.com/story/2018-movies-finally-understood-the-internet/"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Tom Cruise stars in impassioned PSA against motion smoothing:https://www.theverge.com/2018/12/4/18126306/tom-cruise-psa-motion-smoothing-christopher-mcquarrie"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Ford's noise-canceling kennel prototype is pretty doggone cool \u2014 Future Blink:https://mashable.com/video/ford-noise-canceling-dog-kennel/"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"How to See What Twitter Thinks Your Interests Are:https://lifehacker.com/how-to-see-what-twitter-thinks-your-interests-are-1830747631"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Motorola\u2019s 5G Moto Mod speed test was massively misleading:https://www.theverge.com/2018/12/5/18127573/motorola-verizon-5g-speed-test-misleading-maui-snapdragon-tech-summit"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Nine Charged in Plot to Steal Samsung's Most-Hyped Phone Technology:https://gizmodo.com/nine-charged-in-plot-to-steal-samsungs-most-hyped-phone-1830739130"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Canada and France will explore AI ethics with an international panel:https://www.engadget.com/2018/12/07/canada-france-ai-ethics/"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Could a Drone Disruption Like Gatwick\u2019s Happen at a U.S. Airport?:https://www.nytimes.com/2018/12/20/business/drones-airports-gatwick.html"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"On Technology: What Happens When Facebook Goes the Way of Myspace?:https://www.nytimes.com/2018/12/12/magazine/what-happens-when-facebook-goes-the-way-of-myspace.html"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Their Art Raised Questions About Technology. Chinese Censors Had Their Own Answer.:https://www.nytimes.com/2018/12/14/arts/china-art-censorship.html"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Kids and tech: Can parents make this a healthy relationship?:https://mashable.com/ad/video/kids-parenting-tech/"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"As Markets Tumble, Tech Stocks Hit a Rare and Ominous Milestone:https://www.nytimes.com/2018/12/21/business/nasdaq-stocks-bear-market.html"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Riding in Waymo One, the Google spinoff\u2019s first self-driving taxi service:https://www.theverge.com/2018/12/5/18126103/waymo-one-self-driving-taxi-service-ride-safety-alphabet-cost-app"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Qualcomm announces the Snapdragon 8cx, an \u2018extreme\u2019 processor for Windows laptops:https://www.theverge.com/2018/12/6/18128630/qualcomm-snapdragon-8cx-announcement-technology-summit-maui"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Peeling Back the Paint to Discover Bruegel\u2019s Secrets:https://www.nytimes.com/2018/11/23/arts/design/bruegel-kunsthistorisches-museum-technology-layers.html"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"The best VR gifts:https://www.engadget.com/2018/11/30/the-best-vr-gifts/"}]
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet MESSAGE data 2["user_uttered",{"message":"search for bitcoin","customData":{}}]
+received event "user_uttered" from 4ae818976dba4150acf1a408ab312d9b [/]
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Here is the news on bitcoin."}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Bitcoin scammers send bomb threats across US, causing evacuations:https://www.theverge.com/2018/12/13/18139724/bitcoin-bomb-threat-scam-email-us-police-department-investigation-evacuations"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"We Answered the Most Googled 'How To' Questions of 2018:https://lifehacker.com/we-answered-the-most-googled-how-to-questions-of-2018-1831025985"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Coinbase Bundle performance tracker reveals the sad state of the crypto market:https://mashable.com/article/coinbase-bundle-performance-ouch/"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Ohio becomes the first state to accept bitcoin for tax payments:http://techcrunch.com/2018/11/25/ohio-becomes-the-first-state-to-accept-bitcoin-for-tax-payments/"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Scammers are sending bomb scares to nab BTC:http://techcrunch.com/2018/12/13/scammers-are-sending-bomb-scares-to-nab-btc/"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Ohio Is Set to Become the First State to Let Businesses Pay Taxes With Bitcoin:https://gizmodo.com/ohio-is-set-to-become-the-first-state-to-let-businesses-1830644836"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Facebook reportedly building cryptocurrency for WhatsApp money transfers:https://www.theverge.com/2018/12/21/18151469/facebook-cryptocurrency-whatsapp-transfers-cash-money-stablecoin"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Bitcoin, and Cryptocurrency in General, Had a Terrible November:https://gizmodo.com/bitcoin-and-cryptocurrency-in-general-had-a-terrible-1830795708"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Layer1 wants to thrive in the age of the crypto crash:http://techcrunch.com/2018/12/21/layer1-fundraise/"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Google\u2019s year in search 2018: the World Cup, Fortnite GIFs and Bitcoin:http://techcrunch.com/2018/12/12/googles-year-in-search-2018-the-world-cup-fortnite-gifs-and-bitcoin/"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Cryptocurrency exchange Gemini launches mobile trading app:https://mashable.com/article/gemini-mobile-app/"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"The crusade against open source abuse:http://techcrunch.com/2018/11/29/the-crusade-against-open-source-abuse/"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"What You Need to Know About HTC's Exodus 1, the 'Blockchain Smartphone':https://lifehacker.com/what-you-need-to-know-about-htcs-exodus-1-the-blockcha-1830836727"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Dozens of Bomb Threats Reported Across America in Apparent Bitcoin Ransom Scam:https://gizmodo.com/dozens-of-bomb-threats-reported-across-america-in-appar-1831080547"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Two Iranian men charged with the ransomware attack that took down Atlanta:https://www.theverge.com/2018/11/28/18116213/iranian-hackers-samsam-ransomware-indictment-bitcoin-sanctions-wallet-atlanta"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Move over HODL, it's time to BUIDL:https://mashable.com/article/buidl-hodl/"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Price Of Bitcoin Rises 27%, While Price of Bitcoin Cash Triples:https://news.slashdot.org/story/18/12/22/1728245/price-of-bitcoin-rises-27-while-price-of-bitcoin-cash-triples"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Bitcoin tumbles to its lowest level since September 2017:https://www.businessinsider.com/bitcoin-price-tumbles-crypto-bloodbath-continues-2018-11"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Bitcoin Options Purchased for $1 Million Will Soon Be Worthless:https://news.slashdot.org/story/18/12/08/183253/bitcoin-options-purchased-for-1-million-will-soon-be-worthless"}]
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Bitcoin falls over 7 percent, heads towards one-year low:https://www.reuters.com/article/us-crypto-currencies-idUSKCN1NZ1AS"}]
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet MESSAGE data 2["user_uttered",{"message":"tell me a joke","customData":{}}]
+received event "user_uttered" from 4ae818976dba4150acf1a408ab312d9b [/]
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"The only reason you go to the bathroom is because Chuck Norris scared the shit out of you."}]
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet MESSAGE data 2["user_uttered",{"message":"bye","customData":{}}]
+received event "user_uttered" from 4ae818976dba4150acf1a408ab312d9b [/]
+C:\Users\pradeep\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\preprocessing\label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+emitting event "bot_uttered" to 4ae818976dba4150acf1a408ab312d9b [/]
+4ae818976dba4150acf1a408ab312d9b: Sending packet MESSAGE data 2["bot_uttered",{"text":"Talk to you later!"}]
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+4ae818976dba4150acf1a408ab312d9b: Received packet PING data None
+4ae818976dba4150acf1a408ab312d9b: Sending packet PONG data None
+d50a6e95b6d7475c8a670b1d9b7ecef5: Sending packet OPEN data {'sid': 'd50a6e95b6d7475c8a670b1d9b7ecef5', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+d50a6e95b6d7475c8a670b1d9b7ecef5: Sending packet MESSAGE data 0
+d50a6e95b6d7475c8a670b1d9b7ecef5: Received packet PING data None
+d50a6e95b6d7475c8a670b1d9b7ecef5: Sending packet PONG data None
+e07b99f2a3a04cf48d6d00464ff6effa: Sending packet OPEN data {'sid': 'e07b99f2a3a04cf48d6d00464ff6effa', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+e07b99f2a3a04cf48d6d00464ff6effa: Sending packet MESSAGE data 0
+4ae818976dba4150acf1a408ab312d9b: Client is gone, closing socket
+41dbcf0cc5a941e78e542ebf55850621: Sending packet OPEN data {'sid': '41dbcf0cc5a941e78e542ebf55850621', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+41dbcf0cc5a941e78e542ebf55850621: Sending packet MESSAGE data 0
+602d1d3036b94656a81dc487f9c6db82: Sending packet OPEN data {'sid': '602d1d3036b94656a81dc487f9c6db82', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+602d1d3036b94656a81dc487f9c6db82: Sending packet MESSAGE data 0
+602d1d3036b94656a81dc487f9c6db82: Received packet PING data None
+602d1d3036b94656a81dc487f9c6db82: Sending packet PONG data None
+d50a6e95b6d7475c8a670b1d9b7ecef5: Client is gone, closing socket
+e07b99f2a3a04cf48d6d00464ff6effa: Client is gone, closing socket
+602d1d3036b94656a81dc487f9c6db82: Received packet PING data None
+602d1d3036b94656a81dc487f9c6db82: Sending packet PONG data None
+41dbcf0cc5a941e78e542ebf55850621: Client is gone, closing socket
+470f82d0277d42ae8b9f246c89badd07: Sending packet OPEN data {'sid': '470f82d0277d42ae8b9f246c89badd07', 'upgrades': [], 'pingTimeout': 60000, 'pingInterval': 25000}
+470f82d0277d42ae8b9f246c89badd07: Sending packet MESSAGE data 0
+470f82d0277d42ae8b9f246c89badd07: Received packet PING data None
+470f82d0277d42ae8b9f246c89badd07: Sending packet PONG data None
+602d1d3036b94656a81dc487f9c6db82: Client is gone, closing socket
+470f82d0277d42ae8b9f246c89badd07: Received packet PING data None
+470f82d0277d42ae8b9f246c89badd07: Sending packet PONG data None
+470f82d0277d42ae8b9f246c89badd07: Received packet PING data None
+470f82d0277d42ae8b9f246c89badd07: Sending packet PONG data None
+470f82d0277d42ae8b9f246c89badd07: Received packet PING data None
+470f82d0277d42ae8b9f246c89badd07: Sending packet PONG data None
+470f82d0277d42ae8b9f246c89badd07: Received packet PING data None
+470f82d0277d42ae8b9f246c89badd07: Sending packet PONG data None
+470f82d0277d42ae8b9f246c89badd07: Received packet PING data None
+470f82d0277d42ae8b9f246c89badd07: Sending packet PONG data None
+470f82d0277d42ae8b9f246c89badd07: Received packet PING data None
+470f82d0277d42ae8b9f246c89badd07: Sending packet PONG data None
+470f82d0277d42ae8b9f246c89badd07: Received packet PING data None
+470f82d0277d42ae8b9f246c89badd07: Sending packet PONG data None
+470f82d0277d42ae8b9f246c89badd07: Received packet PING data None
+470f82d0277d42ae8b9f246c89badd07: Sending packet PONG data None
+470f82d0277d42ae8b9f246c89badd07: Received packet PING data None
+470f82d0277d42ae8b9f246c89badd07: Sending packet PONG data None
+470f82d0277d42ae8b9f246c89badd07: Received packet PING data None
+470f82d0277d42ae8b9f246c89badd07: Sending packet PONG data None
+470f82d0277d42ae8b9f246c89badd07: Received packet PING data None
+470f82d0277d42ae8b9f246c89badd07: Sending packet PONG data None
+470f82d0277d42ae8b9f246c89badd07: Received packet PING data None
+470f82d0277d42ae8b9f246c89badd07: Sending packet PONG data None

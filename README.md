@@ -12,5 +12,3 @@ https://github.com/paceuniversityCS691TeamB/NewsAssistant/projects/1
 
 Heroku Aplication Link:
 http://newsassistant.herokuapp.com/
-
-

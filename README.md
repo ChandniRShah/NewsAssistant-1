@@ -1,6 +1,7 @@
 # NewsAssistant
 
 Web based News assistant with conversational chatbot.
+
 Project part of CS691/CS692 courses at Seidenberg School of Computer Science & Information Systems, Pace University, New York, US.
 
 Project Wiki:
